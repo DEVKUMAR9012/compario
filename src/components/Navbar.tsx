@@ -1,14 +1,17 @@
 import { useState, useRef, useEffect } from 'react';
-import { Link, useNavigate } from 'react-router-dom';
-import { Search, Heart, Bell, User, ArrowRightLeft, LogOut, ChevronDown } from 'lucide-react';
+import { Link, useLocation, useNavigate } from 'react-router-dom';
+import { Search, Heart, Bell, User, LogOut, ChevronDown } from 'lucide-react';
 import { useAuth } from '../contexts/AuthContext';
+import Logo from './Logo';
 
 export default function Navbar() {
   const [searchTerm, setSearchTerm] = useState('');
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const navigate = useNavigate();
+  const location = useLocation();
   const { user, loading, logout } = useAuth();
   const dropdownRef = useRef<HTMLDivElement>(null);
+  const isHome = location.pathname === '/';
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -35,17 +38,49 @@ export default function Navbar() {
     await logout();
   };
 
+  if (isHome) {
+    return (
+      <nav className="w-full bg-[#f7fbfa]">
+        <div className="max-w-6xl mx-auto px-5 sm:px-8">
+          <div className="flex h-20 items-center justify-between gap-5">
+            <Logo />
+
+            <div className="hidden items-center gap-7 text-sm font-medium text-slate-600 md:flex">
+              <a href="#features" className="hover:text-slate-950 transition-colors">Features</a>
+              <a href="#categories" className="hover:text-slate-950 transition-colors">Categories</a>
+              <Link to="/drops" className="hover:text-slate-950 transition-colors">Price Drops</Link>
+              <Link to="/search" className="hover:text-slate-950 transition-colors">Browse</Link>
+            </div>
+
+            <div className="flex shrink-0 items-center gap-2">
+              {user ? (
+                <Link to="/dashboard" className="hidden rounded-full px-4 py-2 text-sm font-medium text-slate-700 hover:bg-white sm:block">
+                  Dashboard
+                </Link>
+              ) : !loading ? (
+                <button
+                  onClick={() => navigate('/login')}
+                  className="hidden rounded-full border border-slate-300 px-4 py-2 text-sm font-medium text-slate-800 transition-colors hover:bg-white sm:block"
+                >
+                  Log in
+                </button>
+              ) : null}
+              <Link to="/search" className="rounded-full bg-emerald-700 px-4 py-2 text-sm font-semibold text-white shadow-sm transition-colors hover:bg-emerald-800 sm:px-5">
+                Get Started
+              </Link>
+            </div>
+          </div>
+        </div>
+      </nav>
+    );
+  }
+
   return (
     <nav className="sticky top-0 z-50 w-full bg-surface border-b border-border shadow-sm">
       <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16 sm:h-20">
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-2">
-            <div className="bg-primary/10 text-primary p-1.5 rounded-lg">
-              <ArrowRightLeft className="w-6 h-6" />
-            </div>
-            <span className="text-xl font-bold text-text-primary tracking-tight">Compario</span>
-          </Link>
+          <Logo />
 
           {/* Search Bar */}
           <form onSubmit={handleSearch} className="hidden md:flex flex-1 max-w-xl mx-8 relative group">

@@ -9,6 +9,7 @@ import {
 } from 'framer-motion';
 import { Check, Eye, EyeOff, Heart, Loader2, ShieldCheck, Star } from 'lucide-react';
 import { useNavigate } from 'react-router-dom';
+import Logo from '../components/Logo';
 
 /* ═══════════════════════════════════════════════════════════════════════
    CONSTANTS
@@ -846,18 +847,7 @@ export default function Login() {
       >
         <div className="w-full max-w-[372px] px-7 py-10">
           {/* Logo */}
-          <div className="mb-7 flex items-center justify-center gap-2" style={{ fontFamily: DISPLAY }}>
-            <HexMark size={34} />
-            <span className="relative text-[36px] font-semibold leading-none tracking-[0.01em] text-slate-900">
-              COMPARIO
-              <ShieldCheck
-                size={17}
-                strokeWidth={2.4}
-                className="absolute -right-5 -top-1.5 fill-slate-500 text-white"
-                aria-hidden
-              />
-            </span>
-          </div>
+          <Logo className="mb-7 justify-center" iconClassName="h-10 w-10" textClassName="text-[36px]" />
 
           {/* Headline */}
           <div className="mx-auto mb-9 max-w-[300px] text-center text-[22px] font-normal leading-[1.3] text-slate-700" style={{ fontFamily: DISPLAY }}>
