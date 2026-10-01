@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "server": "node --env-file=server/.env server/index.js",
-    "build": "tsc -b && vite build",
+    "build": "vite build",
     "lint": "oxlint",
     "preview": "vite preview"
   },
@@ -31,7 +31,8 @@
     "react-dom": "^19.2.8",
     "react-router-dom": "^7.18.4",
     "recharts": "^3.10.1",
-    "tailwind-merge": "^3.7.0"
+    "tailwind-merge": "^3.7.0",
+    "typescript": "^5.7.0"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.6",

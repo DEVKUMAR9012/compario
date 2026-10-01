@@ -7,7 +7,7 @@ export default function Navbar() {
   const [searchTerm, setSearchTerm] = useState('');
   const [dropdownOpen, setDropdownOpen] = useState(false);
   const navigate = useNavigate();
-  const { user, loading, openAuthModal, logout } = useAuth();
+  const { user, loading, logout } = useAuth();
   const dropdownRef = useRef<HTMLDivElement>(null);
 
   const handleSearch = (e: React.FormEvent) => {
