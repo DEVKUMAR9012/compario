@@ -1,0 +1,884 @@
+# Complete Product Catalog List
+
+Total Products: **840**
+
+## SMARTPHONES (105)
+
+| Brand | Product Name | Current Price |
+| :--- | :--- | :--- |
+| Apple | iPhone 16 Pro Max 256GB | ₹1,44,900 |
+| Apple | iPhone 16 Pro Max 512GB | ₹1,64,900 |
+| Apple | iPhone 16 Pro Max 1TB | ₹1,84,900 |
+| Apple | iPhone 16 Pro 128GB | ₹1,19,900 |
+| Apple | iPhone 16 Pro 256GB | ₹1,29,900 |
+| Apple | iPhone 16 Pro 512GB | ₹1,49,900 |
+| Apple | iPhone 16 Plus 128GB | ₹89,900 |
+| Apple | iPhone 16 Plus 256GB | ₹99,900 |
+| Apple | iPhone 16 128GB | ₹79,900 |
+| Apple | iPhone 16 256GB | ₹89,900 |
+| Apple | iPhone 15 Pro Max 256GB | ₹1,34,900 |
+| Apple | iPhone 15 Pro 128GB | ₹1,09,900 |
+| Apple | iPhone 15 128GB | ₹58,999 |
+| Apple | iPhone 15 256GB | ₹68,999 |
+| Apple | iPhone 15 Plus 128GB | ₹69,999 |
+| Apple | iPhone 14 128GB | ₹49,999 |
+| Apple | iPhone 13 128GB | ₹42,999 |
+| Apple | iPhone SE (3rd Gen) 64GB | ₹29,999 |
+| CMF by Nothing | CMF Phone 1 (6GB/128GB) | ₹15,999 |
+| Google | Pixel 9 Pro XL (16GB/128GB) | ₹1,24,999 |
+| Google | Pixel 9 Pro XL (16GB/256GB) | ₹1,34,999 |
+| Google | Pixel 9 Pro (16GB/128GB) | ₹1,09,999 |
+| Google | Pixel 9 (12GB/128GB) | ₹79,999 |
+| Google | Pixel 8 Pro (12GB/128GB) | ₹78,999 |
+| Google | Pixel 8 (8GB/128GB) | ₹54,999 |
+| Google | Pixel 8a (8GB/128GB) | ₹47,999 |
+| Google | Pixel 7a (8GB/128GB) | ₹34,999 |
+| iQOO | iQOO 12 5G (12GB/256GB) | ₹52,999 |
+| iQOO | iQOO 12 5G (16GB/512GB) | ₹57,999 |
+| iQOO | iQOO Neo 9 Pro 5G (8GB/128GB) | ₹34,999 |
+| iQOO | iQOO Neo 9 Pro 5G (12GB/256GB) | ₹38,999 |
+| iQOO | iQOO Z9 5G (8GB/128GB) | ₹19,999 |
+| Motorola | Edge 50 Ultra 5G (16GB/512GB) | ₹54,999 |
+| Motorola | Edge 50 Pro 5G (12GB/256GB) | ₹35,999 |
+| Motorola | Edge 50 Fusion 5G (8GB/128GB) | ₹22,999 |
+| Motorola | Edge 50 Fusion 5G (12GB/256GB) | ₹24,999 |
+| Motorola | Razr 50 Ultra 5G (12GB/512GB) | ₹94,999 |
+| Motorola | Moto G85 5G (8GB/128GB) | ₹17,999 |
+| Motorola | Moto G85 5G (12GB/256GB) | ₹19,999 |
+| Motorola | Moto G64 5G (8GB/128GB) | ₹14,999 |
+| Motorola | Moto G45 5G (8GB/128GB) | ₹12,999 |
+| Nothing | Nothing Phone (2) (12GB/256GB) | ₹36,999 |
+| Nothing | Nothing Phone (2) (12GB/512GB) | ₹41,999 |
+| Nothing | Nothing Phone (2a) (8GB/128GB) | ₹23,999 |
+| Nothing | Nothing Phone (2a) (8GB/256GB) | ₹25,999 |
+| Nothing | Nothing Phone (2a) Plus (8GB/256GB) | ₹27,999 |
+| OnePlus | OnePlus 12 5G (12GB/256GB) | ₹61,999 |
+| OnePlus | OnePlus 12 5G (16GB/512GB) | ₹66,999 |
+| OnePlus | OnePlus Open 5G (16GB/512GB) | ₹1,39,999 |
+| OnePlus | OnePlus 12R 5G (8GB/128GB) | ₹37,999 |
+| OnePlus | OnePlus 12R 5G (16GB/256GB) | ₹42,999 |
+| OnePlus | OnePlus 11 5G (16GB/256GB) | ₹47,999 |
+| OnePlus | OnePlus Nord 4 5G (8GB/128GB) | ₹29,999 |
+| OnePlus | OnePlus Nord 4 5G (12GB/256GB) | ₹32,999 |
+| OnePlus | OnePlus Nord CE 4 5G (8GB/128GB) | ₹24,999 |
+| OnePlus | OnePlus Nord CE 4 5G (8GB/256GB) | ₹26,999 |
+| OnePlus | OnePlus Nord CE 4 Lite 5G (8GB/128GB) | ₹17,999 |
+| OnePlus | OnePlus 10 Pro 5G (12GB/256GB) | ₹39,999 |
+| Realme | Realme GT 6 5G (8GB/256GB) | ₹39,999 |
+| Realme | Realme GT 6 5G (16GB/512GB) | ₹44,999 |
+| Realme | Realme GT 6T 5G (8GB/128GB) | ₹30,999 |
+| Realme | Realme 12 Pro+ 5G (8GB/128GB) | ₹29,999 |
+| Realme | Realme 12 Pro+ 5G (12GB/256GB) | ₹33,999 |
+| Realme | Realme 12 Pro 5G (8GB/128GB) | ₹23,999 |
+| Realme | Realme 13 Pro+ 5G (8GB/256GB) | ₹32,999 |
+| Realme | Realme Narzo 70 Pro 5G (8GB/128GB) | ₹18,999 |
+| Realme | Realme Narzo 70x 5G (6GB/128GB) | ₹13,499 |
+| Realme | Realme C65 5G (6GB/128GB) | ₹11,499 |
+| Samsung | Galaxy S24 Ultra 5G (12GB/256GB) | ₹1,19,999 |
+| Samsung | Galaxy S24 Ultra 5G (12GB/512GB) | ₹1,29,999 |
+| Samsung | Galaxy S24 Ultra 5G (12GB/1TB) | ₹1,49,999 |
+| Samsung | Galaxy S24+ 5G (12GB/256GB) | ₹84,999 |
+| Samsung | Galaxy S24 5G (8GB/128GB) | ₹64,999 |
+| Samsung | Galaxy S24 5G (8GB/256GB) | ₹69,999 |
+| Samsung | Galaxy Z Fold 6 5G (12GB/256GB) | ₹1,64,999 |
+| Samsung | Galaxy Z Fold 6 5G (12GB/512GB) | ₹1,76,999 |
+| Samsung | Galaxy Z Flip 6 5G (12GB/256GB) | ₹1,09,999 |
+| Samsung | Galaxy S23 Ultra 5G (12GB/256GB) | ₹74,999 |
+| Samsung | Galaxy S23 FE 5G (8GB/128GB) | ₹37,999 |
+| Samsung | Galaxy A55 5G (8GB/128GB) | ₹36,999 |
+| Samsung | Galaxy A55 5G (12GB/256GB) | ₹42,999 |
+| Samsung | Galaxy A35 5G (8GB/128GB) | ₹27,999 |
+| Samsung | Galaxy M55 5G (8GB/128GB) | ₹22,999 |
+| Samsung | Galaxy M35 5G (6GB/128GB) | ₹16,999 |
+| Samsung | Galaxy M15 5G (6GB/128GB) | ₹12,999 |
+| Samsung | Galaxy F55 5G (8GB/256GB) | ₹26,999 |
+| Samsung | Galaxy F15 5G (6GB/128GB) | ₹13,499 |
+| Samsung | Galaxy A15 5G (8GB/128GB) | ₹17,499 |
+| Vivo | Vivo X100 Pro 5G (16GB/512GB) | ₹89,999 |
+| Vivo | Vivo X100 5G (12GB/256GB) | ₹63,999 |
+| Vivo | Vivo V30 Pro 5G (12GB/512GB) | ₹46,999 |
+| Vivo | Vivo V40 Pro 5G (8GB/256GB) | ₹49,999 |
+| Vivo | Vivo T3 5G (8GB/128GB) | ₹19,999 |
+| Xiaomi | Xiaomi 14 Ultra 5G (16GB/512GB) | ₹99,999 |
+| Xiaomi | Xiaomi 14 5G (12GB/512GB) | ₹59,999 |
+| Xiaomi | Xiaomi 13 Pro 5G (12GB/256GB) | ₹52,999 |
+| Xiaomi | Redmi Note 13 Pro+ 5G (12GB/512GB) | ₹33,999 |
+| Xiaomi | Redmi Note 13 Pro+ 5G (8GB/256GB) | ₹29,999 |
+| Xiaomi | Redmi Note 13 Pro 5G (8GB/128GB) | ₹22,999 |
+| Xiaomi | Redmi Note 13 5G (6GB/128GB) | ₹16,999 |
+| Xiaomi | Redmi 13C 5G (4GB/128GB) | ₹9,999 |
+| Xiaomi | Redmi 13C 5G (8GB/256GB) | ₹13,499 |
+| Xiaomi | Redmi 12 5G (6GB/128GB) | ₹11,999 |
+| Xiaomi | Xiaomi 14 Civi (8GB/256GB) | ₹42,999 |
+| Xiaomi | Xiaomi 14 Civi (12GB/512GB) | ₹47,999 |
+
+## LAPTOPS (105)
+
+| Brand | Product Name | Current Price |
+| :--- | :--- | :--- |
+| Acer | Predator Helios 16 (Intel Core i9 14900HX, RTX 4080 12GB, 32GB RAM, 1TB SSD) | ₹2,39,990 |
+| Acer | Nitro 16 (AMD Ryzen 7 7840HS, RTX 4060 8GB, 16GB RAM, 512GB SSD) | ₹94,990 |
+| Acer | Nitro V 15 (Intel Core i5 13420H, RTX 4050 6GB, 16GB RAM, 512GB SSD) | ₹68,990 |
+| Acer | Swift Go 14 (Intel Core Ultra 5 125H, 16GB RAM, 512GB SSD) | ₹74,990 |
+| Apple | MacBook Pro 16 M3 Max (36GB RAM, 1TB SSD) | ₹3,49,900 |
+| Apple | MacBook Pro 16 M3 Max (48GB RAM, 1TB SSD) | ₹3,99,900 |
+| Apple | MacBook Pro 16 M3 Pro (18GB RAM, 512GB SSD) | ₹2,49,900 |
+| Apple | MacBook Pro 16 M3 Pro (36GB RAM, 512GB SSD) | ₹2,89,900 |
+| Apple | MacBook Pro 14 M3 Pro (18GB RAM, 512GB SSD) | ₹1,99,900 |
+| Apple | MacBook Pro 14 M3 Pro (18GB RAM, 1TB SSD) | ₹2,39,900 |
+| Apple | MacBook Pro 14 M3 Max (36GB RAM, 1TB SSD) | ₹3,19,900 |
+| Apple | MacBook Pro 14 M3 (8GB RAM, 512GB SSD) | ₹1,69,900 |
+| Apple | MacBook Pro 14 M3 (16GB RAM, 512GB SSD) | ₹1,89,900 |
+| Apple | MacBook Air 15 M3 (8GB RAM, 256GB SSD) | ₹1,24,990 |
+| Apple | MacBook Air 15 M3 (16GB RAM, 512GB SSD) | ₹1,64,990 |
+| Apple | MacBook Air 13 M3 (8GB RAM, 256GB SSD) | ₹1,04,990 |
+| Apple | MacBook Air 13 M3 (16GB RAM, 512GB SSD) | ₹1,44,990 |
+| Apple | MacBook Air 13 M2 (8GB RAM, 256GB SSD) | ₹84,990 |
+| Apple | MacBook Air 13 M2 (16GB RAM, 256GB SSD) | ₹1,04,990 |
+| Apple | MacBook Air 13 M1 (8GB RAM, 256GB SSD) | ₹62,990 |
+| Apple | MacBook Pro 16 M3 Max (16GB RAM / 512GB SSD Upgrade) | ₹3,99,900 |
+| Apple | MacBook Pro 16 M3 Pro (Creator Edition with Stylus) | ₹2,53,400 |
+| Apple | MacBook Pro 16 M3 Pro (Pro Workstation Bundle) | ₹2,86,400 |
+| Apple | MacBook Pro 14 M3 Pro (OLED Color-calibrated Edition) | ₹1,99,900 |
+| Apple | MacBook Pro 14 M3 Pro (32GB RAM / 1TB SSD Edition) | ₹2,43,400 |
+| Apple | MacBook Pro 14 M3 Max (16GB RAM / 512GB SSD Upgrade) | ₹3,16,400 |
+| Apple | MacBook Pro 14 M3 (Creator Edition with Stylus) | ₹1,69,900 |
+| Apple | MacBook Pro 14 M3 (Pro Workstation Bundle) | ₹1,93,400 |
+| Apple | MacBook Air 15 M3 (OLED Color-calibrated Edition) | ₹1,21,490 |
+| Apple | MacBook Air 15 M3 (32GB RAM / 1TB SSD Edition) | ₹1,64,990 |
+| Apple | MacBook Air 13 M3 (16GB RAM / 512GB SSD Upgrade) | ₹1,08,490 |
+| Apple | MacBook Air 13 M3 (Creator Edition with Stylus) | ₹1,41,490 |
+| Apple | MacBook Air 13 M2 (Pro Workstation Bundle) | ₹84,990 |
+| Apple | MacBook Air 13 M2 (OLED Color-calibrated Edition) | ₹1,08,490 |
+| Apple | MacBook Air 13 M1 (32GB RAM / 1TB SSD Edition) | ₹59,490 |
+| ASUS | ROG Zephyrus G16 (Intel Core Ultra 9 185H, RTX 4080 12GB, 32GB RAM, 1TB SSD) | ₹2,79,990 |
+| ASUS | ROG Zephyrus G14 (AMD Ryzen 9 8945HS, RTX 4070 8GB, 32GB RAM, 1TB SSD) | ₹2,09,990 |
+| ASUS | ROG Strix SCAR 18 (Intel Core i9 14900HX, RTX 4090 16GB, 32GB RAM, 2TB SSD) | ₹3,59,990 |
+| ASUS | ROG Strix G16 (Intel Core i7 13650HX, RTX 4060 8GB, 16GB RAM, 1TB SSD) | ₹1,19,990 |
+| ASUS | TUF Gaming A15 (AMD Ryzen 7 7735HS, RTX 4060 8GB, 16GB RAM, 512GB SSD) | ₹89,990 |
+| ASUS | TUF Gaming F15 (Intel Core i7 12700H, RTX 4060 8GB, 16GB RAM, 1TB SSD) | ₹92,990 |
+| ASUS | Zenbook 14 OLED (Intel Core Ultra 7 155H, 16GB RAM, 1TB SSD) | ₹1,09,990 |
+| ASUS | Zenbook Duo (Intel Core Ultra 9 185H, Dual 14" 3K 120Hz OLED, 32GB RAM, 1TB SSD) | ₹2,19,990 |
+| ASUS | Vivobook S 15 OLED (Snapdragon X Elite, 16GB RAM, 1TB SSD) | ₹1,24,990 |
+| ASUS | Vivobook 16X (Intel Core i5 12450H, RTX 2050 4GB, 16GB RAM, 512GB SSD) | ₹54,990 |
+| ASUS | Vivobook 15 (Intel Core i5 1235U, 16GB RAM, 512GB SSD) | ₹44,990 |
+| ASUS | Vivobook Go 15 (AMD Ryzen 5 7520U, 16GB RAM, 512GB SSD) | ₹39,990 |
+| ASUS | ROG Zephyrus G16 (Pro Workstation Bundle) | ₹2,79,990 |
+| ASUS | ROG Zephyrus G14 (OLED Color-calibrated Edition) | ₹2,13,490 |
+| ASUS | ROG Strix SCAR 18 (32GB RAM / 1TB SSD Edition) | ₹3,56,490 |
+| ASUS | ROG Strix G16 (16GB RAM / 512GB SSD Upgrade) | ₹1,19,990 |
+| ASUS | TUF Gaming A15 (Creator Edition with Stylus) | ₹93,490 |
+| ASUS | TUF Gaming F15 (Pro Workstation Bundle) | ₹89,490 |
+| ASUS | Zenbook 14 OLED (OLED Color-calibrated Edition) | ₹1,09,990 |
+| ASUS | Zenbook Duo (32GB RAM / 1TB SSD Edition) | ₹2,23,490 |
+| ASUS | Vivobook S 15 OLED (16GB RAM / 512GB SSD Upgrade) | ₹1,21,490 |
+| ASUS | Vivobook 16X (Creator Edition with Stylus) | ₹54,990 |
+| Dell | XPS 16 9640 (Intel Core Ultra 7 155H, RTX 4070 8GB, 32GB RAM, 1TB SSD) | ₹2,89,990 |
+| Dell | XPS 14 9440 (Intel Core Ultra 7 155H, RTX 4050, 16GB RAM, 512GB SSD) | ₹1,99,990 |
+| Dell | XPS 13 9340 (Intel Core Ultra 7 155H, 16GB RAM, 512GB SSD) | ₹1,44,990 |
+| Dell | Alienware m18 R2 (Intel Core i9 14900HX, RTX 4090 16GB, 64GB RAM, 2TB SSD) | ₹4,19,990 |
+| Dell | Alienware m16 R2 (Intel Core Ultra 7 155H, RTX 4070 8GB, 16GB RAM, 1TB SSD) | ₹1,89,990 |
+| Dell | Alienware x14 R2 (Intel Core i7 13620H, RTX 4060, 16GB RAM, 1TB SSD) | ₹1,64,990 |
+| Dell | G15 5530 (Intel Core i7 13650HX, RTX 4060 8GB, 16GB RAM, 1TB SSD) | ₹99,990 |
+| Dell | G15 5530 (Intel Core i5 13450HX, RTX 3050 6GB, 16GB RAM, 1TB SSD) | ₹72,990 |
+| Dell | Inspiron 16 Plus 7630 (Core i7 13700H, RTX 4060, 16GB RAM, 1TB SSD) | ₹1,24,990 |
+| Dell | Inspiron 15 3530 (Intel Core i5 1334U, 16GB RAM, 512GB SSD) | ₹49,990 |
+| Dell | Inspiron 14 5430 (Intel Core i5 1335U, 16GB RAM, 512GB SSD) | ₹61,990 |
+| Dell | Inspiron 14 2-in-1 7430 (Core i7 1355U, 16GB RAM, 1TB SSD) | ₹84,990 |
+| Dell | XPS 16 9640 (16GB RAM / 512GB SSD Upgrade) | ₹2,89,990 |
+| Dell | XPS 14 9440 (Creator Edition with Stylus) | ₹2,03,490 |
+| Dell | XPS 13 9340 (Pro Workstation Bundle) | ₹1,41,490 |
+| Dell | Alienware m18 R2 (OLED Color-calibrated Edition) | ₹4,19,990 |
+| Dell | Alienware m16 R2 (32GB RAM / 1TB SSD Edition) | ₹1,93,490 |
+| Dell | Alienware x14 R2 (16GB RAM / 512GB SSD Upgrade) | ₹1,61,490 |
+| Dell | G15 5530 (Creator Edition with Stylus) | ₹99,990 |
+| Dell | G15 5530 (Pro Workstation Bundle) | ₹76,490 |
+| Dell | Inspiron 16 Plus 7630 (OLED Color-calibrated Edition) | ₹1,21,490 |
+| Dell | Inspiron 15 3530 (32GB RAM / 1TB SSD Edition) | ₹49,990 |
+| Dell | Inspiron 14 5430 (16GB RAM / 512GB SSD Upgrade) | ₹65,490 |
+| Dell | Inspiron 14 2-in-1 7430 (Creator Edition with Stylus) | ₹81,490 |
+| HP | Omen Transcend 14 (Intel Core Ultra 7 155H, RTX 4060, 16GB RAM, 1TB SSD) | ₹1,64,990 |
+| HP | Omen 16 (Intel Core i7 14700HX, RTX 4070 8GB, 16GB RAM, 1TB SSD) | ₹1,49,990 |
+| HP | Victus 16 (AMD Ryzen 7 7840HS, RTX 4060 8GB, 16GB RAM, 1TB SSD) | ₹98,990 |
+| HP | Victus 15 (Intel Core i5 13420H, RTX 3050 6GB, 16GB RAM, 512GB SSD) | ₹66,990 |
+| HP | Spectre x360 14 (Intel Core Ultra 7 155H, 16GB RAM, 1TB SSD) | ₹1,54,990 |
+| HP | Envy x360 14 2-in-1 (Intel Core Ultra 5 125U, 16GB RAM, 512GB SSD) | ₹89,990 |
+| HP | Pavilion Plus 14 (AMD Ryzen 7 7840U, 16GB RAM, 1TB SSD) | ₹77,990 |
+| HP | 15s (Intel Core i5 1235U, 16GB RAM, 512GB SSD) | ₹52,990 |
+| Lenovo | Legion Pro 7i Gen 9 (Intel Core i9 14900HX, RTX 4080 12GB, 32GB RAM, 1TB SSD) | ₹2,59,990 |
+| Lenovo | Legion Pro 5i Gen 9 (Intel Core i7 14650HX, RTX 4070 8GB, 32GB RAM, 1TB SSD) | ₹1,69,990 |
+| Lenovo | Legion Slim 5 (AMD Ryzen 7 7840HS, RTX 4060 8GB, 16GB RAM, 1TB SSD) | ₹1,12,990 |
+| Lenovo | LOQ 15IRX9 (Intel Core i7 13650HX, RTX 4060 8GB, 16GB RAM, 512GB SSD) | ₹89,990 |
+| Lenovo | LOQ 15IAX9 (Intel Core i5 12450HX, RTX 4050 6GB, 16GB RAM, 512GB SSD) | ₹69,990 |
+| Lenovo | LOQ 15IAX9 (Intel Core i5 12450HX, RTX 3050 6GB, 16GB RAM, 512GB SSD) | ₹59,990 |
+| Lenovo | ThinkPad X1 Carbon Gen 12 (Intel Core Ultra 7 155H, 32GB RAM, 1TB SSD) | ₹2,39,990 |
+| Lenovo | ThinkPad T14 Gen 4 (AMD Ryzen 7 PRO 7840U, 16GB RAM, 512GB SSD) | ₹1,09,990 |
+| Lenovo | Yoga 9i 2-in-1 (Intel Core Ultra 7 155H, 16GB RAM, 1TB SSD) | ₹1,69,990 |
+| Lenovo | Yoga Slim 7x (Snapdragon X Elite, 16GB RAM, 1TB SSD) | ₹1,39,990 |
+| Lenovo | IdeaPad Slim 5 (Intel Core i5 13500H, 16GB RAM, 512GB SSD) | ₹62,990 |
+| Lenovo | IdeaPad Slim 3 (Intel Core i3 1215U, 8GB RAM, 512GB SSD) | ₹34,990 |
+| MSI | Titan 18 HX A14V (Intel Core i9 14900HX, RTX 4090 16GB, 64GB RAM, 4TB SSD) | ₹4,79,990 |
+| MSI | Katana 15 (Intel Core i7 13620H, RTX 4060 8GB, 16GB RAM, 1TB SSD) | ₹94,990 |
+| MSI | Thin 15 (Intel Core i5 12450H, RTX 2050 4GB, 16GB RAM, 512GB SSD) | ₹49,990 |
+| MSI | Prestige 16 AI Studio (Intel Core Ultra 7 155H, RTX 4060, 32GB RAM, 1TB SSD) | ₹1,69,990 |
+
+## HEADPHONES (105)
+
+| Brand | Product Name | Current Price |
+| :--- | :--- | :--- |
+| Apple | AirPods Max (USB-C) Space Orange | ₹59,900 |
+| Apple | AirPods Max (USB-C) Midnight | ₹59,900 |
+| Apple | AirPods Max (USB-C) Starlight | ₹59,900 |
+| Apple | AirPods Pro (2nd Gen) with MagSafe Case (USB-C) | ₹21,900 |
+| Apple | AirPods 4 with Active Noise Cancellation | ₹16,900 |
+| Apple | AirPods 4 Standard Edition | ₹12,900 |
+| Apple | AirPods Max (USB-C) Space Orange (Midnight Navy, Travel Pack Edition) | ₹60,700 |
+| Apple | AirPods Max (USB-C) Midnight (Smoky White, Audiophile Edition) | ₹59,100 |
+| Apple | AirPods Max (USB-C) Starlight (Champagne Gold, Travel Pack Edition) | ₹59,900 |
+| Apple | AirPods Pro (2nd Gen) with MagSafe Case (USB-C) (Olive Green, Audiophile Edition) | ₹22,700 |
+| Apple | AirPods 4 with Active Noise Cancellation (Matte Black, Travel Pack Edition) | ₹16,100 |
+| Apple | AirPods 4 Standard Edition (Glacier Silver, Audiophile Edition) | ₹12,900 |
+| Apple | AirPods Max (USB-C) Space Orange (Smoky White, Audiophile Edition) | ₹59,100 |
+| Apple | AirPods Max (USB-C) Midnight (Champagne Gold, Travel Pack Edition) | ₹59,900 |
+| Apple | AirPods Max (USB-C) Starlight (Olive Green, Audiophile Edition) | ₹60,700 |
+| Apple | AirPods Pro (2nd Gen) with MagSafe Case (USB-C) (Matte Black, Travel Pack Edition) | ₹21,100 |
+| Apple | AirPods 4 with Active Noise Cancellation (Glacier Silver, Audiophile Edition) | ₹16,900 |
+| Apple | AirPods 4 Standard Edition (Midnight Navy, Travel Pack Edition) | ₹13,700 |
+| Audio-Technica | ATH-M50x Professional Studio Monitor Headphones | ₹12,999 |
+| Audio-Technica | ATH-M50xBT2 Wireless Over-Ear Headphones | ₹17,499 |
+| Audio-Technica | ATH-M50x Professional Studio Monitor Headphones (Olive Green, Audiophile Edition) | ₹13,799 |
+| Audio-Technica | ATH-M50xBT2 Wireless Over-Ear Headphones (Matte Black, Travel Pack Edition) | ₹16,699 |
+| Audio-Technica | ATH-M50x Professional Studio Monitor Headphones (Matte Black, Travel Pack Edition) | ₹12,199 |
+| Audio-Technica | ATH-M50xBT2 Wireless Over-Ear Headphones (Glacier Silver, Audiophile Edition) | ₹17,499 |
+| Beats | Studio Pro Wireless Headphones | ₹29,900 |
+| Beats | Solo 4 Wireless On-Ear Headphones | ₹19,900 |
+| Beats | Studio Pro Wireless Headphones (Smoky White, Audiophile Edition) | ₹29,100 |
+| Beats | Solo 4 Wireless On-Ear Headphones (Champagne Gold, Travel Pack Edition) | ₹19,900 |
+| Beyerdynamic | DT 990 Pro Over-Ear Studio Headphones 250 Ohm | ₹13,990 |
+| Beyerdynamic | DT 770 Pro Closed Studio Headphones 80 Ohm | ₹12,490 |
+| Beyerdynamic | DT 990 Pro Over-Ear Studio Headphones 250 Ohm (Olive Green, Audiophile Edition) | ₹14,790 |
+| Beyerdynamic | DT 770 Pro Closed Studio Headphones 80 Ohm (Matte Black, Travel Pack Edition) | ₹11,690 |
+| Bose | QuietComfort Ultra Wireless Headphones | ₹34,900 |
+| Bose | QuietComfort Ultra Wireless Headphones (White Smoke) | ₹34,900 |
+| Bose | QuietComfort Wireless Headphones | ₹26,900 |
+| Bose | QuietComfort Ultra True Wireless Earbuds | ₹23,900 |
+| Bose | SoundLink Max Portable Bluetooth Speaker | ₹32,900 |
+| Bose | SoundLink Flex Bluetooth Speaker (2nd Gen) | ₹14,900 |
+| Bose | QuietComfort Ultra Wireless Headphones (Midnight Navy, Travel Pack Edition) | ₹35,700 |
+| Bose | QuietComfort Ultra Wireless Headphones (White Smoke) (Smoky White, Audiophile Edition) | ₹34,100 |
+| Bose | QuietComfort Wireless Headphones (Champagne Gold, Travel Pack Edition) | ₹26,900 |
+| Bose | QuietComfort Ultra True Wireless Earbuds (Olive Green, Audiophile Edition) | ₹24,700 |
+| Bose | SoundLink Max Portable Bluetooth Speaker (Matte Black, Travel Pack Edition) | ₹32,100 |
+| Bose | SoundLink Flex Bluetooth Speaker (2nd Gen) (Glacier Silver, Audiophile Edition) | ₹14,900 |
+| Bose | QuietComfort Ultra Wireless Headphones (Smoky White, Audiophile Edition) | ₹34,100 |
+| Bose | QuietComfort Ultra Wireless Headphones (White Smoke) (Champagne Gold, Travel Pack Edition) | ₹34,900 |
+| Bose | QuietComfort Wireless Headphones (Olive Green, Audiophile Edition) | ₹27,700 |
+| Bose | QuietComfort Ultra True Wireless Earbuds (Matte Black, Travel Pack Edition) | ₹23,100 |
+| Bose | SoundLink Max Portable Bluetooth Speaker (Glacier Silver, Audiophile Edition) | ₹32,900 |
+| Bose | SoundLink Flex Bluetooth Speaker (2nd Gen) (Midnight Navy, Travel Pack Edition) | ₹15,700 |
+| JBL | Tour ONE M2 Wireless Noise Cancelling Headphones | ₹17,999 |
+| JBL | Live 770NC Wireless Over-Ear ANC Headphones | ₹11,999 |
+| JBL | Tune 770NC Wireless Over-Ear Headphones | ₹5,499 |
+| JBL | Tune 520BT Wireless On-Ear Headphones | ₹3,499 |
+| JBL | Boombox 3 Wi-Fi & Bluetooth Speaker | ₹39,999 |
+| JBL | Tour ONE M2 Wireless Noise Cancelling Headphones (Matte Black, Travel Pack Edition) | ₹17,199 |
+| JBL | Live 770NC Wireless Over-Ear ANC Headphones (Glacier Silver, Audiophile Edition) | ₹11,999 |
+| JBL | Tune 770NC Wireless Over-Ear Headphones (Midnight Navy, Travel Pack Edition) | ₹6,299 |
+| JBL | Tune 520BT Wireless On-Ear Headphones (Smoky White, Audiophile Edition) | ₹2,699 |
+| JBL | Boombox 3 Wi-Fi & Bluetooth Speaker (Champagne Gold, Travel Pack Edition) | ₹39,999 |
+| JBL | Tour ONE M2 Wireless Noise Cancelling Headphones (Glacier Silver, Audiophile Edition) | ₹17,999 |
+| JBL | Live 770NC Wireless Over-Ear ANC Headphones (Midnight Navy, Travel Pack Edition) | ₹12,799 |
+| JBL | Tune 770NC Wireless Over-Ear Headphones (Smoky White, Audiophile Edition) | ₹4,699 |
+| JBL | Tune 520BT Wireless On-Ear Headphones (Champagne Gold, Travel Pack Edition) | ₹3,499 |
+| JBL | Boombox 3 Wi-Fi & Bluetooth Speaker (Olive Green, Audiophile Edition) | ₹40,799 |
+| Marshall | Major IV Wireless On-Ear Headphones | ₹11,999 |
+| Marshall | Monitor II A.N.C. Wireless Headphones | ₹21,999 |
+| Marshall | Major IV Wireless On-Ear Headphones (Glacier Silver, Audiophile Edition) | ₹11,999 |
+| Marshall | Monitor II A.N.C. Wireless Headphones (Midnight Navy, Travel Pack Edition) | ₹22,799 |
+| Marshall | Major IV Wireless On-Ear Headphones (Midnight Navy, Travel Pack Edition) | ₹12,799 |
+| Sennheiser | Momentum 4 Wireless Noise Cancelling Headphones | ₹24,990 |
+| Sennheiser | Accentum Plus Wireless Headphones | ₹14,990 |
+| Sennheiser | HD 660S2 Audiophile Open-Back Headphones | ₹44,990 |
+| Sennheiser | HD 560S Reference Audio Headphones | ₹13,990 |
+| Sennheiser | Momentum 4 Wireless Noise Cancelling Headphones (Midnight Navy, Travel Pack Edition) | ₹25,790 |
+| Sennheiser | Accentum Plus Wireless Headphones (Smoky White, Audiophile Edition) | ₹14,190 |
+| Sennheiser | HD 660S2 Audiophile Open-Back Headphones (Champagne Gold, Travel Pack Edition) | ₹44,990 |
+| Sennheiser | HD 560S Reference Audio Headphones (Olive Green, Audiophile Edition) | ₹14,790 |
+| Sennheiser | Momentum 4 Wireless Noise Cancelling Headphones (Smoky White, Audiophile Edition) | ₹24,190 |
+| Sennheiser | Accentum Plus Wireless Headphones (Champagne Gold, Travel Pack Edition) | ₹14,990 |
+| Sennheiser | HD 660S2 Audiophile Open-Back Headphones (Olive Green, Audiophile Edition) | ₹45,790 |
+| Sennheiser | HD 560S Reference Audio Headphones (Matte Black, Travel Pack Edition) | ₹13,190 |
+| Sony | WH-1000XM5 Wireless Noise Cancelling Headphones | ₹25,999 |
+| Sony | WH-1000XM5 Wireless Headphones (Silver) | ₹26,499 |
+| Sony | WH-1000XM4 Wireless Noise Cancelling Headphones | ₹19,999 |
+| Sony | WF-1000XM5 True Wireless Earbuds | ₹20,999 |
+| Sony | WH-CH720N Wireless Over-Ear Headphones | ₹7,990 |
+| Sony | WH-ULT900N ULT WEAR Wireless Bass Headphones | ₹14,990 |
+| Sony | LinkBuds S Truly Wireless Earbuds | ₹12,990 |
+| Sony | MDR-7506 Professional Studio Monitor Headphones | ₹8,490 |
+| Sony | WH-1000XM5 Wireless Headphones (Silver) (Glacier Silver, Audiophile Edition) | ₹26,499 |
+| Sony | WH-1000XM4 Wireless Noise Cancelling Headphones (Midnight Navy, Travel Pack Edition) | ₹20,799 |
+| Sony | WF-1000XM5 True Wireless Earbuds (Smoky White, Audiophile Edition) | ₹20,199 |
+| Sony | WH-CH720N Wireless Over-Ear Headphones (Champagne Gold, Travel Pack Edition) | ₹7,990 |
+| Sony | WH-ULT900N ULT WEAR Wireless Bass Headphones (Olive Green, Audiophile Edition) | ₹15,790 |
+| Sony | LinkBuds S Truly Wireless Earbuds (Matte Black, Travel Pack Edition) | ₹12,190 |
+| Sony | MDR-7506 Professional Studio Monitor Headphones (Glacier Silver, Audiophile Edition) | ₹8,490 |
+| Sony | WH-1000XM5 Wireless Noise Cancelling Headphones (Glacier Silver, Audiophile Edition) | ₹25,999 |
+| Sony | WH-1000XM5 Wireless Headphones (Silver) (Midnight Navy, Travel Pack Edition) | ₹27,299 |
+| Sony | WH-1000XM4 Wireless Noise Cancelling Headphones (Smoky White, Audiophile Edition) | ₹19,199 |
+| Sony | WF-1000XM5 True Wireless Earbuds (Champagne Gold, Travel Pack Edition) | ₹20,999 |
+| Sony | WH-CH720N Wireless Over-Ear Headphones (Olive Green, Audiophile Edition) | ₹8,790 |
+| Sony | WH-ULT900N ULT WEAR Wireless Bass Headphones (Matte Black, Travel Pack Edition) | ₹14,190 |
+| Sony | LinkBuds S Truly Wireless Earbuds (Glacier Silver, Audiophile Edition) | ₹12,990 |
+| Sony | MDR-7506 Professional Studio Monitor Headphones (Midnight Navy, Travel Pack Edition) | ₹9,290 |
+
+## SMARTWATCHES (105)
+
+| Brand | Product Name | Current Price |
+| :--- | :--- | :--- |
+| Amazfit | Balance Smartwatch with AI Sleep & Fitness Coach | ₹21,999 |
+| Amazfit | Cheetah Pro Premium GPS Running Watch | ₹24,999 |
+| Amazfit | T-Rex 2 Rugged Outdoor Watch 15 Military Certifications | ₹14,999 |
+| Amazfit | Balance Smartwatch with AI Sleep & Fitness Coach (Ocean Diver Strap) | ₹21,999 |
+| Amazfit | Cheetah Pro Premium GPS Running Watch (Silicone Rugged Strap) | ₹26,199 |
+| Amazfit | T-Rex 2 Rugged Outdoor Watch 15 Military Certifications (Sport Loop Band) | ₹13,799 |
+| Amazfit | Balance Smartwatch with AI Sleep & Fitness Coach (Silicone Rugged Strap) | ₹23,199 |
+| Amazfit | Cheetah Pro Premium GPS Running Watch (Sport Loop Band) | ₹23,799 |
+| Amazfit | T-Rex 2 Rugged Outdoor Watch 15 Military Certifications (Alpine Trail Loop) | ₹14,999 |
+| Apple | Apple Watch Ultra 2 GPS + Cellular 49mm Titanium | ₹89,900 |
+| Apple | Apple Watch Ultra 2 with Black Titanium Milanese Loop | ₹1,04,900 |
+| Apple | Apple Watch Series 9 GPS 45mm Midnight Aluminum | ₹44,900 |
+| Apple | Apple Watch Series 9 GPS + Cellular 45mm Stainless Steel | ₹74,900 |
+| Apple | Apple Watch Series 9 GPS 41mm Starlight | ₹41,900 |
+| Apple | Apple Watch Series 9 GPS 45mm (PRODUCT)RED | ₹44,900 |
+| Apple | Apple Watch SE (2nd Gen) GPS 44mm Midnight | ₹28,900 |
+| Apple | Apple Watch SE (2nd Gen) GPS 40mm Starlight | ₹25,900 |
+| Apple | Apple Watch Ultra 2 with Black Titanium Milanese Loop (Alpine Trail Loop) | ₹1,04,900 |
+| Apple | Apple Watch Series 9 GPS 45mm Midnight Aluminum (Leather Link Edition) | ₹46,100 |
+| Apple | Apple Watch Series 9 GPS + Cellular 45mm Stainless Steel (Titanium Bracelet Edition) | ₹73,700 |
+| Apple | Apple Watch Series 9 GPS 41mm Starlight (Ocean Diver Strap) | ₹41,900 |
+| Apple | Apple Watch Series 9 GPS 45mm (PRODUCT)RED (Silicone Rugged Strap) | ₹46,100 |
+| Apple | Apple Watch SE (2nd Gen) GPS 44mm Midnight (Sport Loop Band) | ₹27,700 |
+| Apple | Apple Watch SE (2nd Gen) GPS 40mm Starlight (Alpine Trail Loop) | ₹25,900 |
+| Apple | Apple Watch Ultra 2 GPS + Cellular 49mm Titanium (Alpine Trail Loop) | ₹89,900 |
+| Apple | Apple Watch Ultra 2 with Black Titanium Milanese Loop (Leather Link Edition) | ₹1,06,100 |
+| Apple | Apple Watch Series 9 GPS 45mm Midnight Aluminum (Titanium Bracelet Edition) | ₹43,700 |
+| Apple | Apple Watch Series 9 GPS + Cellular 45mm Stainless Steel (Ocean Diver Strap) | ₹74,900 |
+| Apple | Apple Watch Series 9 GPS 41mm Starlight (Silicone Rugged Strap) | ₹43,100 |
+| Apple | Apple Watch Series 9 GPS 45mm (PRODUCT)RED (Sport Loop Band) | ₹43,700 |
+| Apple | Apple Watch SE (2nd Gen) GPS 44mm Midnight (Alpine Trail Loop) | ₹28,900 |
+| Apple | Apple Watch SE (2nd Gen) GPS 40mm Starlight (Leather Link Edition) | ₹27,100 |
+| Apple | Apple Watch Ultra 2 GPS + Cellular 49mm Titanium (Leather Link Edition) | ₹91,100 |
+| Apple | Apple Watch Ultra 2 with Black Titanium Milanese Loop (Titanium Bracelet Edition) | ₹1,03,700 |
+| Apple | Apple Watch Series 9 GPS 45mm Midnight Aluminum (Ocean Diver Strap) | ₹44,900 |
+| Apple | Apple Watch Series 9 GPS + Cellular 45mm Stainless Steel (Silicone Rugged Strap) | ₹76,100 |
+| Apple | Apple Watch Series 9 GPS 41mm Starlight (Sport Loop Band) | ₹40,700 |
+| Apple | Apple Watch Series 9 GPS 45mm (PRODUCT)RED (Alpine Trail Loop) | ₹44,900 |
+| Apple | Apple Watch SE (2nd Gen) GPS 44mm Midnight (Leather Link Edition) | ₹30,100 |
+| Apple | Apple Watch SE (2nd Gen) GPS 40mm Starlight (Titanium Bracelet Edition) | ₹24,700 |
+| Garmin | Epix Pro (Gen 2) 51mm Sapphire Edition Titanium | ₹1,11,990 |
+| Garmin | Fenix 7 Pro Solar Sapphire Edition 47mm | ₹99,990 |
+| Garmin | Forerunner 965 Premium GPS Running Watch | ₹67,490 |
+| Garmin | Forerunner 265 GPS Running Smartwatch 46mm | ₹50,490 |
+| Garmin | Venu 3 GPS Smartwatch Slate Stainless Steel | ₹47,990 |
+| Garmin | Instinct 2X Solar Rugged GPS Watch 50mm | ₹45,990 |
+| Garmin | Epix Pro (Gen 2) 51mm Sapphire Edition Titanium (Silicone Rugged Strap) | ₹1,13,190 |
+| Garmin | Fenix 7 Pro Solar Sapphire Edition 47mm (Sport Loop Band) | ₹98,790 |
+| Garmin | Forerunner 965 Premium GPS Running Watch (Alpine Trail Loop) | ₹67,490 |
+| Garmin | Forerunner 265 GPS Running Smartwatch 46mm (Leather Link Edition) | ₹51,690 |
+| Garmin | Venu 3 GPS Smartwatch Slate Stainless Steel (Titanium Bracelet Edition) | ₹46,790 |
+| Garmin | Instinct 2X Solar Rugged GPS Watch 50mm (Ocean Diver Strap) | ₹45,990 |
+| Garmin | Epix Pro (Gen 2) 51mm Sapphire Edition Titanium (Sport Loop Band) | ₹1,10,790 |
+| Garmin | Fenix 7 Pro Solar Sapphire Edition 47mm (Alpine Trail Loop) | ₹99,990 |
+| Garmin | Forerunner 965 Premium GPS Running Watch (Leather Link Edition) | ₹68,690 |
+| Garmin | Forerunner 265 GPS Running Smartwatch 46mm (Titanium Bracelet Edition) | ₹49,290 |
+| Garmin | Venu 3 GPS Smartwatch Slate Stainless Steel (Ocean Diver Strap) | ₹47,990 |
+| Garmin | Instinct 2X Solar Rugged GPS Watch 50mm (Silicone Rugged Strap) | ₹47,190 |
+| Google | Pixel Watch 3 45mm Matte Black with Obsidian Active Band | ₹43,999 |
+| Google | Pixel Watch 3 41mm Polished Silver with Porcelain Band | ₹39,999 |
+| Google | Pixel Watch 2 Matte Black Aluminum Case | ₹29,999 |
+| Google | Pixel Watch 3 45mm Matte Black with Obsidian Active Band (Silicone Rugged Strap) | ₹45,199 |
+| Google | Pixel Watch 3 41mm Polished Silver with Porcelain Band (Sport Loop Band) | ₹38,799 |
+| Google | Pixel Watch 2 Matte Black Aluminum Case (Alpine Trail Loop) | ₹29,999 |
+| Google | Pixel Watch 3 45mm Matte Black with Obsidian Active Band (Sport Loop Band) | ₹42,799 |
+| Google | Pixel Watch 3 41mm Polished Silver with Porcelain Band (Alpine Trail Loop) | ₹39,999 |
+| Google | Pixel Watch 2 Matte Black Aluminum Case (Leather Link Edition) | ₹31,199 |
+| OnePlus | OnePlus Watch 2 (Qualcomm Snapdragon W5 + BES2700) | ₹21,999 |
+| OnePlus | OnePlus Watch 2R Forest Green | ₹17,999 |
+| OnePlus | OnePlus Watch 2 (Qualcomm Snapdragon W5 + BES2700) (Leather Link Edition) | ₹23,199 |
+| OnePlus | OnePlus Watch 2R Forest Green (Titanium Bracelet Edition) | ₹16,799 |
+| OnePlus | OnePlus Watch 2 (Qualcomm Snapdragon W5 + BES2700) (Titanium Bracelet Edition) | ₹20,799 |
+| OnePlus | OnePlus Watch 2R Forest Green (Ocean Diver Strap) | ₹17,999 |
+| Samsung | Galaxy Watch Ultra 47mm LTE Titanium Gray | ₹59,999 |
+| Samsung | Galaxy Watch Ultra 47mm LTE Titanium White | ₹59,999 |
+| Samsung | Galaxy Watch 7 44mm Bluetooth Green | ₹32,999 |
+| Samsung | Galaxy Watch 7 44mm LTE Silver | ₹36,999 |
+| Samsung | Galaxy Watch 7 40mm Bluetooth Cream | ₹29,999 |
+| Samsung | Galaxy Watch 6 Classic 47mm BT Black | ₹27,999 |
+| Samsung | Galaxy Watch 6 Classic 43mm Silver | ₹24,999 |
+| Samsung | Galaxy Watch 6 44mm Graphite | ₹19,999 |
+| Samsung | Galaxy Watch 4 44mm Bluetooth | ₹9,999 |
+| Samsung | Galaxy Watch Ultra 47mm LTE Titanium Gray (Leather Link Edition) | ₹61,199 |
+| Samsung | Galaxy Watch Ultra 47mm LTE Titanium White (Titanium Bracelet Edition) | ₹58,799 |
+| Samsung | Galaxy Watch 7 44mm Bluetooth Green (Ocean Diver Strap) | ₹32,999 |
+| Samsung | Galaxy Watch 7 44mm LTE Silver (Silicone Rugged Strap) | ₹38,199 |
+| Samsung | Galaxy Watch 7 40mm Bluetooth Cream (Sport Loop Band) | ₹28,799 |
+| Samsung | Galaxy Watch 6 Classic 47mm BT Black (Alpine Trail Loop) | ₹27,999 |
+| Samsung | Galaxy Watch 6 Classic 43mm Silver (Leather Link Edition) | ₹26,199 |
+| Samsung | Galaxy Watch 6 44mm Graphite (Titanium Bracelet Edition) | ₹18,799 |
+| Samsung | Galaxy Watch 4 44mm Bluetooth (Ocean Diver Strap) | ₹9,999 |
+| Samsung | Galaxy Watch Ultra 47mm LTE Titanium Gray (Titanium Bracelet Edition) | ₹58,799 |
+| Samsung | Galaxy Watch Ultra 47mm LTE Titanium White (Ocean Diver Strap) | ₹59,999 |
+| Samsung | Galaxy Watch 7 44mm Bluetooth Green (Silicone Rugged Strap) | ₹34,199 |
+| Samsung | Galaxy Watch 7 44mm LTE Silver (Sport Loop Band) | ₹35,799 |
+| Samsung | Galaxy Watch 7 40mm Bluetooth Cream (Alpine Trail Loop) | ₹29,999 |
+| Samsung | Galaxy Watch 6 Classic 47mm BT Black (Leather Link Edition) | ₹29,199 |
+| Samsung | Galaxy Watch 6 Classic 43mm Silver (Titanium Bracelet Edition) | ₹23,799 |
+| Samsung | Galaxy Watch 6 44mm Graphite (Ocean Diver Strap) | ₹19,999 |
+| Samsung | Galaxy Watch 4 44mm Bluetooth (Silicone Rugged Strap) | ₹11,199 |
+| Samsung | Galaxy Watch Ultra 47mm LTE Titanium Gray (Ocean Diver Strap) | ₹59,999 |
+| Samsung | Galaxy Watch Ultra 47mm LTE Titanium White (Silicone Rugged Strap) | ₹61,199 |
+| Samsung | Galaxy Watch 7 44mm Bluetooth Green (Sport Loop Band) | ₹31,799 |
+| Samsung | Galaxy Watch 7 44mm LTE Silver (Alpine Trail Loop) | ₹36,999 |
+| Samsung | Galaxy Watch 7 40mm Bluetooth Cream (Leather Link Edition) | ₹31,199 |
+
+## MONITORS (105)
+
+| Brand | Product Name | Current Price |
+| :--- | :--- | :--- |
+| ASUS | ROG Swift OLED PG32UCDM 32" 4K 240Hz QD-OLED Gaming Monitor | ₹1,24,999 |
+| ASUS | ROG Swift PG27AQDM 27" QHD 240Hz OLED Gaming Monitor | ₹82,999 |
+| ASUS | TUF Gaming VG27AQ 27" QHD 165Hz IPS Gaming Monitor | ₹23,999 |
+| ASUS | ROG Swift OLED PG32UCDM 32" 4K 240Hz QD-OLED Gaming Monitor (Factory Calibrated Color Profile) | ₹1,23,499 |
+| ASUS | ROG Swift PG27AQDM 27" QHD 240Hz OLED Gaming Monitor (Dual HDMI 2.1 Console Pack) | ₹82,999 |
+| ASUS | TUF Gaming VG27AQ 27" QHD 165Hz IPS Gaming Monitor (Anti-Glare Pro Shield Edition) | ₹25,499 |
+| ASUS | ROG Swift OLED PG32UCDM 32" 4K 240Hz QD-OLED Gaming Monitor (Anti-Glare Pro Shield Edition) | ₹1,23,499 |
+| ASUS | ROG Swift PG27AQDM 27" QHD 240Hz OLED Gaming Monitor (Zero-Dead-Pixel Guarantee Edition) | ₹82,999 |
+| ASUS | TUF Gaming VG27AQ 27" QHD 165Hz IPS Gaming Monitor (Ergonomic Arm Mount Included) | ₹25,499 |
+| ASUS | ROG Swift OLED PG32UCDM 32" 4K 240Hz QD-OLED Gaming Monitor (Ergonomic Arm Mount Included) | ₹1,23,499 |
+| ASUS | ROG Swift PG27AQDM 27" QHD 240Hz OLED Gaming Monitor (Factory Calibrated Color Profile) | ₹82,999 |
+| ASUS | TUF Gaming VG27AQ 27" QHD 165Hz IPS Gaming Monitor (Dual HDMI 2.1 Console Pack) | ₹25,499 |
+| BenQ | PD3205U 32" 4K UHD Designer Monitor with USB-C | ₹54,990 |
+| BenQ | ZOWIE XL2546K 24.5" 240Hz Esports Gaming Monitor | ₹39,990 |
+| BenQ | PD3205U 32" 4K UHD Designer Monitor with USB-C (Zero-Dead-Pixel Guarantee Edition) | ₹53,490 |
+| BenQ | ZOWIE XL2546K 24.5" 240Hz Esports Gaming Monitor (Ergonomic Arm Mount Included) | ₹39,990 |
+| BenQ | PD3205U 32" 4K UHD Designer Monitor with USB-C (Factory Calibrated Color Profile) | ₹53,490 |
+| BenQ | ZOWIE XL2546K 24.5" 240Hz Esports Gaming Monitor (Dual HDMI 2.1 Console Pack) | ₹39,990 |
+| BenQ | PD3205U 32" 4K UHD Designer Monitor with USB-C (Anti-Glare Pro Shield Edition) | ₹53,490 |
+| Dell | Alienware AW3423DWF 34" Curved QD-OLED 165Hz Gaming Monitor | ₹84,999 |
+| Dell | Alienware AW3225QF 32" 4K QD-OLED 240Hz Curved Gaming Monitor | ₹99,999 |
+| Dell | Alienware AW2725DF 27" 360Hz QD-OLED QHD Esports Monitor | ₹74,999 |
+| Dell | UltraSharp U2724D 27" QHD IPS Black 120Hz Monitor | ₹34,999 |
+| Dell | UltraSharp U3224KB 32" 6K UHD IPS Black Monitor with 4K Webcam | ₹1,99,999 |
+| Dell | S2722QC 27" 4K UHD USB-C Lifestyle Monitor | ₹29,999 |
+| Dell | Alienware AW3423DWF 34" Curved QD-OLED 165Hz Gaming Monitor (Ergonomic Arm Mount Included) | ₹83,499 |
+| Dell | Alienware AW3225QF 32" 4K QD-OLED 240Hz Curved Gaming Monitor (Factory Calibrated Color Profile) | ₹99,999 |
+| Dell | Alienware AW2725DF 27" 360Hz QD-OLED QHD Esports Monitor (Dual HDMI 2.1 Console Pack) | ₹76,499 |
+| Dell | UltraSharp U2724D 27" QHD IPS Black 120Hz Monitor (Anti-Glare Pro Shield Edition) | ₹33,499 |
+| Dell | UltraSharp U3224KB 32" 6K UHD IPS Black Monitor with 4K Webcam (Zero-Dead-Pixel Guarantee Edition) | ₹1,99,999 |
+| Dell | S2722QC 27" 4K UHD USB-C Lifestyle Monitor (Ergonomic Arm Mount Included) | ₹31,499 |
+| Dell | Alienware AW3423DWF 34" Curved QD-OLED 165Hz Gaming Monitor (Dual HDMI 2.1 Console Pack) | ₹83,499 |
+| Dell | Alienware AW3225QF 32" 4K QD-OLED 240Hz Curved Gaming Monitor (Anti-Glare Pro Shield Edition) | ₹99,999 |
+| Dell | Alienware AW2725DF 27" 360Hz QD-OLED QHD Esports Monitor (Zero-Dead-Pixel Guarantee Edition) | ₹76,499 |
+| Dell | UltraSharp U2724D 27" QHD IPS Black 120Hz Monitor (Ergonomic Arm Mount Included) | ₹33,499 |
+| Dell | UltraSharp U3224KB 32" 6K UHD IPS Black Monitor with 4K Webcam (Factory Calibrated Color Profile) | ₹1,99,999 |
+| Dell | S2722QC 27" 4K UHD USB-C Lifestyle Monitor (Dual HDMI 2.1 Console Pack) | ₹31,499 |
+| Dell | Alienware AW3423DWF 34" Curved QD-OLED 165Hz Gaming Monitor (Zero-Dead-Pixel Guarantee Edition) | ₹83,499 |
+| Dell | Alienware AW3225QF 32" 4K QD-OLED 240Hz Curved Gaming Monitor (Ergonomic Arm Mount Included) | ₹99,999 |
+| Dell | Alienware AW2725DF 27" 360Hz QD-OLED QHD Esports Monitor (Factory Calibrated Color Profile) | ₹76,499 |
+| Dell | UltraSharp U2724D 27" QHD IPS Black 120Hz Monitor (Dual HDMI 2.1 Console Pack) | ₹33,499 |
+| Dell | UltraSharp U3224KB 32" 6K UHD IPS Black Monitor with 4K Webcam (Anti-Glare Pro Shield Edition) | ₹1,99,999 |
+| Dell | S2722QC 27" 4K UHD USB-C Lifestyle Monitor (Zero-Dead-Pixel Guarantee Edition) | ₹31,499 |
+| Gigabyte | M27Q 27" 170Hz 1440P KVM Gaming Monitor | ₹21,999 |
+| Gigabyte | M27Q 27" 170Hz 1440P KVM Gaming Monitor (Factory Calibrated Color Profile) | ₹23,499 |
+| Gigabyte | M27Q 27" 170Hz 1440P KVM Gaming Monitor (Anti-Glare Pro Shield Edition) | ₹23,499 |
+| LG | UltraGear 27GR95QE-B 27" QHD OLED 240Hz Gaming Monitor | ₹68,999 |
+| LG | UltraGear 34GS95QE 34" 800R Curved OLED 240Hz Ultrawide | ₹1,04,999 |
+| LG | UltraGear 45GR95QE-B 45" Curved OLED 240Hz Ultrawide | ₹1,39,999 |
+| LG | UltraGear 32GS95UE 32" Dual-Mode OLED (4K 240Hz / FHD 480Hz) | ₹1,29,999 |
+| LG | UltraGear 27GP850-B 27" QHD Nano IPS 165Hz (O/C 180Hz) | ₹29,999 |
+| LG | UltraFine 32UN880-B 32" 4K UHD Ergo IPS Monitor | ₹46,999 |
+| LG | DualUp 28MQ780-B 28" 16:18 SDQHD Ergo Monitor | ₹49,999 |
+| LG | 27UL500-W 27" 4K UHD IPS Monitor with HDR10 | ₹22,999 |
+| LG | UltraGear 34GS95QE 34" 800R Curved OLED 240Hz Ultrawide (Factory Calibrated Color Profile) | ₹1,04,999 |
+| LG | UltraGear 45GR95QE-B 45" Curved OLED 240Hz Ultrawide (Dual HDMI 2.1 Console Pack) | ₹1,41,499 |
+| LG | UltraGear 32GS95UE 32" Dual-Mode OLED (4K 240Hz / FHD 480Hz) (Anti-Glare Pro Shield Edition) | ₹1,28,499 |
+| LG | UltraGear 27GP850-B 27" QHD Nano IPS 165Hz (O/C 180Hz) (Zero-Dead-Pixel Guarantee Edition) | ₹29,999 |
+| LG | UltraFine 32UN880-B 32" 4K UHD Ergo IPS Monitor (Ergonomic Arm Mount Included) | ₹48,499 |
+| LG | DualUp 28MQ780-B 28" 16:18 SDQHD Ergo Monitor (Factory Calibrated Color Profile) | ₹48,499 |
+| LG | 27UL500-W 27" 4K UHD IPS Monitor with HDR10 (Dual HDMI 2.1 Console Pack) | ₹22,999 |
+| LG | UltraGear 27GR95QE-B 27" QHD OLED 240Hz Gaming Monitor (Dual HDMI 2.1 Console Pack) | ₹67,499 |
+| LG | UltraGear 34GS95QE 34" 800R Curved OLED 240Hz Ultrawide (Anti-Glare Pro Shield Edition) | ₹1,04,999 |
+| LG | UltraGear 45GR95QE-B 45" Curved OLED 240Hz Ultrawide (Zero-Dead-Pixel Guarantee Edition) | ₹1,41,499 |
+| LG | UltraGear 32GS95UE 32" Dual-Mode OLED (4K 240Hz / FHD 480Hz) (Ergonomic Arm Mount Included) | ₹1,28,499 |
+| LG | UltraGear 27GP850-B 27" QHD Nano IPS 165Hz (O/C 180Hz) (Factory Calibrated Color Profile) | ₹29,999 |
+| LG | UltraFine 32UN880-B 32" 4K UHD Ergo IPS Monitor (Dual HDMI 2.1 Console Pack) | ₹48,499 |
+| LG | DualUp 28MQ780-B 28" 16:18 SDQHD Ergo Monitor (Anti-Glare Pro Shield Edition) | ₹48,499 |
+| LG | 27UL500-W 27" 4K UHD IPS Monitor with HDR10 (Zero-Dead-Pixel Guarantee Edition) | ₹22,999 |
+| LG | UltraGear 27GR95QE-B 27" QHD OLED 240Hz Gaming Monitor (Zero-Dead-Pixel Guarantee Edition) | ₹67,499 |
+| LG | UltraGear 34GS95QE 34" 800R Curved OLED 240Hz Ultrawide (Ergonomic Arm Mount Included) | ₹1,04,999 |
+| LG | UltraGear 45GR95QE-B 45" Curved OLED 240Hz Ultrawide (Factory Calibrated Color Profile) | ₹1,41,499 |
+| LG | UltraGear 32GS95UE 32" Dual-Mode OLED (4K 240Hz / FHD 480Hz) (Dual HDMI 2.1 Console Pack) | ₹1,28,499 |
+| LG | UltraGear 27GP850-B 27" QHD Nano IPS 165Hz (O/C 180Hz) (Anti-Glare Pro Shield Edition) | ₹29,999 |
+| LG | UltraFine 32UN880-B 32" 4K UHD Ergo IPS Monitor (Zero-Dead-Pixel Guarantee Edition) | ₹48,499 |
+| LG | DualUp 28MQ780-B 28" 16:18 SDQHD Ergo Monitor (Ergonomic Arm Mount Included) | ₹48,499 |
+| LG | 27UL500-W 27" 4K UHD IPS Monitor with HDR10 (Factory Calibrated Color Profile) | ₹22,999 |
+| Samsung | Odyssey OLED G9 49" Curved Dual QHD 240Hz Gaming Monitor | ₹1,29,999 |
+| Samsung | Odyssey OLED G8 32" 4K UHD 240Hz Gaming Monitor (G80SD) | ₹99,999 |
+| Samsung | Odyssey Neo G8 32" 4K UHD 240Hz 1000R Curved Quantum Mini-LED | ₹82,999 |
+| Samsung | Odyssey G7 28" 4K UHD 144Hz IPS Gaming Monitor (G70B) | ₹44,999 |
+| Samsung | Odyssey G5 27" QHD 165Hz 1000R Curved Gaming Monitor | ₹19,999 |
+| Samsung | Smart Monitor M8 32" 4K UHD with SlimFit Magnetic Camera | ₹42,999 |
+| Samsung | ViewFinity S9 27" 5K Studio Display with Matte Screen | ₹99,990 |
+| Samsung | Odyssey OLED G9 49" Curved Dual QHD 240Hz Gaming Monitor (Anti-Glare Pro Shield Edition) | ₹1,31,499 |
+| Samsung | Odyssey OLED G8 32" 4K UHD 240Hz Gaming Monitor (G80SD) (Zero-Dead-Pixel Guarantee Edition) | ₹98,499 |
+| Samsung | Odyssey Neo G8 32" 4K UHD 240Hz 1000R Curved Quantum Mini-LED (Ergonomic Arm Mount Included) | ₹82,999 |
+| Samsung | Odyssey G7 28" 4K UHD 144Hz IPS Gaming Monitor (G70B) (Factory Calibrated Color Profile) | ₹46,499 |
+| Samsung | Odyssey G5 27" QHD 165Hz 1000R Curved Gaming Monitor (Dual HDMI 2.1 Console Pack) | ₹18,499 |
+| Samsung | Smart Monitor M8 32" 4K UHD with SlimFit Magnetic Camera (Anti-Glare Pro Shield Edition) | ₹42,999 |
+| Samsung | ViewFinity S9 27" 5K Studio Display with Matte Screen (Zero-Dead-Pixel Guarantee Edition) | ₹1,01,490 |
+| Samsung | Odyssey OLED G9 49" Curved Dual QHD 240Hz Gaming Monitor (Ergonomic Arm Mount Included) | ₹1,31,499 |
+| Samsung | Odyssey OLED G8 32" 4K UHD 240Hz Gaming Monitor (G80SD) (Factory Calibrated Color Profile) | ₹98,499 |
+| Samsung | Odyssey Neo G8 32" 4K UHD 240Hz 1000R Curved Quantum Mini-LED (Dual HDMI 2.1 Console Pack) | ₹82,999 |
+| Samsung | Odyssey G7 28" 4K UHD 144Hz IPS Gaming Monitor (G70B) (Anti-Glare Pro Shield Edition) | ₹46,499 |
+| Samsung | Odyssey G5 27" QHD 165Hz 1000R Curved Gaming Monitor (Zero-Dead-Pixel Guarantee Edition) | ₹18,499 |
+| Samsung | Smart Monitor M8 32" 4K UHD with SlimFit Magnetic Camera (Ergonomic Arm Mount Included) | ₹42,999 |
+| Samsung | ViewFinity S9 27" 5K Studio Display with Matte Screen (Factory Calibrated Color Profile) | ₹1,01,490 |
+| Samsung | Odyssey OLED G9 49" Curved Dual QHD 240Hz Gaming Monitor (Dual HDMI 2.1 Console Pack) | ₹1,31,499 |
+| Samsung | Odyssey OLED G8 32" 4K UHD 240Hz Gaming Monitor (G80SD) (Anti-Glare Pro Shield Edition) | ₹98,499 |
+| Samsung | Odyssey Neo G8 32" 4K UHD 240Hz 1000R Curved Quantum Mini-LED (Zero-Dead-Pixel Guarantee Edition) | ₹82,999 |
+| Samsung | Odyssey G7 28" 4K UHD 144Hz IPS Gaming Monitor (G70B) (Ergonomic Arm Mount Included) | ₹46,499 |
+| Samsung | Odyssey G5 27" QHD 165Hz 1000R Curved Gaming Monitor (Factory Calibrated Color Profile) | ₹18,499 |
+| Samsung | Smart Monitor M8 32" 4K UHD with SlimFit Magnetic Camera (Dual HDMI 2.1 Console Pack) | ₹42,999 |
+| Samsung | ViewFinity S9 27" 5K Studio Display with Matte Screen (Anti-Glare Pro Shield Edition) | ₹1,01,490 |
+
+## GAMING (105)
+
+| Brand | Product Name | Current Price |
+| :--- | :--- | :--- |
+| ASUS | ROG Ally X Handheld Gaming Console (AMD Z1 Extreme, 24GB RAM, 1TB SSD) | ₹89,990 |
+| ASUS | ROG Strix GeForce RTX 4090 OC Edition 24GB GDDR6X | ₹2,19,990 |
+| ASUS | Dual GeForce RTX 4070 Super EVO OC Edition 12GB GDDR6X | ₹63,990 |
+| ASUS | ROG Ally X Handheld Gaming Console (AMD Z1 Extreme, 24GB RAM, 1TB SSD) (Overclocked Performance Pack) | ₹88,790 |
+| ASUS | ROG Strix GeForce RTX 4090 OC Edition 24GB GDDR6X (Streamer Pro Kit with Mat) | ₹2,18,790 |
+| ASUS | Dual GeForce RTX 4070 Super EVO OC Edition 12GB GDDR6X (RGB Battlestation Bundle) | ₹62,790 |
+| ASUS | ROG Ally X Handheld Gaming Console (AMD Z1 Extreme, 24GB RAM, 1TB SSD) (Streamer Pro Kit with Mat) | ₹89,990 |
+| ASUS | ROG Strix GeForce RTX 4090 OC Edition 24GB GDDR6X (RGB Battlestation Bundle) | ₹2,19,990 |
+| ASUS | Dual GeForce RTX 4070 Super EVO OC Edition 12GB GDDR6X (Limited Stealth Edition) | ₹63,990 |
+| ASUS | ROG Ally X Handheld Gaming Console (AMD Z1 Extreme, 24GB RAM, 1TB SSD) (RGB Battlestation Bundle) | ₹91,190 |
+| ASUS | ROG Strix GeForce RTX 4090 OC Edition 24GB GDDR6X (Limited Stealth Edition) | ₹2,21,190 |
+| ASUS | Dual GeForce RTX 4070 Super EVO OC Edition 12GB GDDR6X (Competitive Tournament Edition) | ₹65,190 |
+| Lenovo | Legion Go 8.8" QHD Handheld (AMD Z1 Extreme, 16GB RAM, 512GB SSD) | ₹69,990 |
+| Lenovo | Legion Go 8.8" QHD Handheld (AMD Z1 Extreme, 16GB RAM, 512GB SSD) (RGB Battlestation Bundle) | ₹69,990 |
+| Lenovo | Legion Go 8.8" QHD Handheld (AMD Z1 Extreme, 16GB RAM, 512GB SSD) (Limited Stealth Edition) | ₹71,190 |
+| Lenovo | Legion Go 8.8" QHD Handheld (AMD Z1 Extreme, 16GB RAM, 512GB SSD) (Competitive Tournament Edition) | ₹68,790 |
+| Logitech | G PRO X SUPERLIGHT 2 Wireless Gaming Mouse (White) | ₹14,995 |
+| Logitech | G502 X PLUS Wireless RGB Gaming Mouse | ₹12,995 |
+| Logitech | G PRO X SUPERLIGHT 2 Wireless Gaming Mouse (White) (Competitive Tournament Edition) | ₹13,795 |
+| Logitech | G502 X PLUS Wireless RGB Gaming Mouse (Streamer Pro Kit with Mat) | ₹12,995 |
+| Logitech | G PRO X SUPERLIGHT 2 Wireless Gaming Mouse (White) (Overclocked Performance Pack) | ₹14,995 |
+| Logitech | G502 X PLUS Wireless RGB Gaming Mouse (RGB Battlestation Bundle) | ₹14,195 |
+| Logitech | G PRO X SUPERLIGHT 2 Wireless Gaming Mouse (White) (Streamer Pro Kit with Mat) | ₹16,195 |
+| Microsoft | Xbox Series X 1TB Console | ₹52,990 |
+| Microsoft | Xbox Series S 512GB All-Digital Console | ₹32,990 |
+| Microsoft | Xbox Elite Wireless Controller Series 2 | ₹15,990 |
+| Microsoft | Xbox Series X 1TB Console (Limited Stealth Edition) | ₹51,790 |
+| Microsoft | Xbox Series S 512GB All-Digital Console (Overclocked Performance Pack) | ₹32,990 |
+| Microsoft | Xbox Elite Wireless Controller Series 2 (RGB Battlestation Bundle) | ₹17,190 |
+| Microsoft | Xbox Series X 1TB Console (Competitive Tournament Edition) | ₹52,990 |
+| Microsoft | Xbox Series S 512GB All-Digital Console (Streamer Pro Kit with Mat) | ₹34,190 |
+| Microsoft | Xbox Elite Wireless Controller Series 2 (Limited Stealth Edition) | ₹14,790 |
+| Microsoft | Xbox Series X 1TB Console (Overclocked Performance Pack) | ₹54,190 |
+| Microsoft | Xbox Series S 512GB All-Digital Console (RGB Battlestation Bundle) | ₹31,790 |
+| Microsoft | Xbox Elite Wireless Controller Series 2 (Competitive Tournament Edition) | ₹15,990 |
+| MSI | GeForce RTX 4070 Ti Super 16G Gaming X Slim White | ₹87,990 |
+| MSI | GeForce RTX 4060 Ventus 2X Black 8G OC | ₹28,990 |
+| MSI | GeForce RTX 4070 Ti Super 16G Gaming X Slim White (Overclocked Performance Pack) | ₹89,190 |
+| MSI | GeForce RTX 4060 Ventus 2X Black 8G OC (Streamer Pro Kit with Mat) | ₹30,190 |
+| MSI | GeForce RTX 4070 Ti Super 16G Gaming X Slim White (Streamer Pro Kit with Mat) | ₹86,790 |
+| MSI | GeForce RTX 4060 Ventus 2X Black 8G OC (RGB Battlestation Bundle) | ₹27,790 |
+| MSI | GeForce RTX 4070 Ti Super 16G Gaming X Slim White (RGB Battlestation Bundle) | ₹87,990 |
+| MSI | GeForce RTX 4060 Ventus 2X Black 8G OC (Limited Stealth Edition) | ₹28,990 |
+| Nintendo | Nintendo Switch OLED Model White Set | ₹29,999 |
+| Nintendo | Nintendo Switch OLED Mario Red Edition | ₹31,999 |
+| Nintendo | Nintendo Switch OLED Model White Set (RGB Battlestation Bundle) | ₹31,199 |
+| Nintendo | Nintendo Switch OLED Mario Red Edition (Competitive Tournament Edition) | ₹30,799 |
+| Nintendo | Nintendo Switch OLED Model White Set (Limited Stealth Edition) | ₹28,799 |
+| Nintendo | Nintendo Switch OLED Mario Red Edition (Overclocked Performance Pack) | ₹31,999 |
+| Nintendo | Nintendo Switch OLED Model White Set (Competitive Tournament Edition) | ₹29,999 |
+| Nintendo | Nintendo Switch OLED Mario Red Edition (Streamer Pro Kit with Mat) | ₹33,199 |
+| Razer | DeathAdder V3 Pro Wireless Gaming Mouse | ₹13,999 |
+| Razer | Viper V3 Pro Wireless Esports Gaming Mouse | ₹15,499 |
+| Razer | Huntsman V3 Pro TKL Esports Optical Gaming Keyboard | ₹21,999 |
+| Razer | DeathAdder V3 Pro Wireless Gaming Mouse (Limited Stealth Edition) | ₹15,199 |
+| Razer | Viper V3 Pro Wireless Esports Gaming Mouse (Overclocked Performance Pack) | ₹14,299 |
+| Razer | Huntsman V3 Pro TKL Esports Optical Gaming Keyboard (Competitive Tournament Edition) | ₹23,199 |
+| Razer | DeathAdder V3 Pro Wireless Gaming Mouse (Competitive Tournament Edition) | ₹12,799 |
+| Razer | Viper V3 Pro Wireless Esports Gaming Mouse (Streamer Pro Kit with Mat) | ₹15,499 |
+| Razer | Huntsman V3 Pro TKL Esports Optical Gaming Keyboard (Overclocked Performance Pack) | ₹20,799 |
+| Sapphire | Pulse AMD Radeon RX 7800 XT Gaming 16GB GDDR6 | ₹51,990 |
+| Sapphire | Pulse AMD Radeon RX 7800 XT Gaming 16GB GDDR6 (Limited Stealth Edition) | ₹50,790 |
+| Sapphire | Pulse AMD Radeon RX 7800 XT Gaming 16GB GDDR6 (Competitive Tournament Edition) | ₹51,990 |
+| Sapphire | Pulse AMD Radeon RX 7800 XT Gaming 16GB GDDR6 (Overclocked Performance Pack) | ₹53,190 |
+| Sony | PlayStation 5 Slim Console (Disc Edition) 1TB | ₹54,990 |
+| Sony | PlayStation 5 Slim Digital Edition 1TB | ₹44,990 |
+| Sony | PlayStation Portal Remote Player for PS5 Console | ₹18,990 |
+| Sony | DualSense Edge Wireless Controller for PS5 | ₹18,990 |
+| Sony | PlayStation 5 Slim Digital Edition 1TB (Competitive Tournament Edition) | ₹44,990 |
+| Sony | PlayStation Portal Remote Player for PS5 Console (Streamer Pro Kit with Mat) | ₹20,190 |
+| Sony | DualSense Edge Wireless Controller for PS5 (Overclocked Performance Pack) | ₹18,990 |
+| Sony | PlayStation 5 Slim Console (Disc Edition) 1TB (Limited Stealth Edition) | ₹54,990 |
+| Sony | PlayStation 5 Slim Digital Edition 1TB (Overclocked Performance Pack) | ₹46,190 |
+| Sony | PlayStation Portal Remote Player for PS5 Console (RGB Battlestation Bundle) | ₹17,790 |
+| Sony | DualSense Edge Wireless Controller for PS5 (Streamer Pro Kit with Mat) | ₹20,190 |
+| Sony | PlayStation 5 Slim Console (Disc Edition) 1TB (Competitive Tournament Edition) | ₹56,190 |
+| Sony | PlayStation 5 Slim Digital Edition 1TB (Streamer Pro Kit with Mat) | ₹43,790 |
+| Sony | PlayStation Portal Remote Player for PS5 Console (Limited Stealth Edition) | ₹18,990 |
+| Sony | DualSense Edge Wireless Controller for PS5 (RGB Battlestation Bundle) | ₹17,790 |
+| SteelSeries | Apex Pro TKL Wireless Mechanical Gaming Keyboard | ₹23,999 |
+| SteelSeries | Arctis Nova Pro Wireless Multi-System Gaming Headset | ₹34,999 |
+| SteelSeries | Apex Pro TKL Wireless Mechanical Gaming Keyboard (RGB Battlestation Bundle) | ₹23,999 |
+| SteelSeries | Arctis Nova Pro Wireless Multi-System Gaming Headset (Streamer Pro Kit with Mat) | ₹33,799 |
+| SteelSeries | Apex Pro TKL Wireless Mechanical Gaming Keyboard (Limited Stealth Edition) | ₹25,199 |
+| SteelSeries | Arctis Nova Pro Wireless Multi-System Gaming Headset (RGB Battlestation Bundle) | ₹34,999 |
+| Valve | Steam Deck OLED 512GB Handheld Gaming PC | ₹56,999 |
+| Valve | Steam Deck OLED 1TB with Anti-Glare Etched Glass | ₹68,999 |
+| Valve | Steam Deck OLED 512GB Handheld Gaming PC (Streamer Pro Kit with Mat) | ₹56,999 |
+| Valve | Steam Deck OLED 1TB with Anti-Glare Etched Glass (Limited Stealth Edition) | ₹70,199 |
+| Valve | Steam Deck OLED 512GB Handheld Gaming PC (RGB Battlestation Bundle) | ₹58,199 |
+| Valve | Steam Deck OLED 1TB with Anti-Glare Etched Glass (Competitive Tournament Edition) | ₹67,799 |
+| Valve | Steam Deck OLED 512GB Handheld Gaming PC (Limited Stealth Edition) | ₹55,799 |
+| Valve | Steam Deck OLED 1TB with Anti-Glare Etched Glass (Overclocked Performance Pack) | ₹68,999 |
+| ZOTAC | Gaming GeForce RTX 4090 Trinity OC White Edition 24GB | ₹1,84,990 |
+| ZOTAC | Gaming GeForce RTX 4080 Super Trinity Black Edition 16GB | ₹99,990 |
+| ZOTAC | Gaming GeForce RTX 4060 8GB Twin Edge OC | ₹28,490 |
+| ZOTAC | Gaming GeForce RTX 4090 Trinity OC White Edition 24GB (Competitive Tournament Edition) | ₹1,86,190 |
+| ZOTAC | Gaming GeForce RTX 4080 Super Trinity Black Edition 16GB (Limited Stealth Edition) | ₹99,990 |
+| ZOTAC | Gaming GeForce RTX 4060 8GB Twin Edge OC (Competitive Tournament Edition) | ₹28,490 |
+| ZOTAC | Gaming GeForce RTX 4090 Trinity OC White Edition 24GB (Overclocked Performance Pack) | ₹1,83,790 |
+| ZOTAC | Gaming GeForce RTX 4080 Super Trinity Black Edition 16GB (Competitive Tournament Edition) | ₹1,01,190 |
+| ZOTAC | Gaming GeForce RTX 4060 8GB Twin Edge OC (Overclocked Performance Pack) | ₹29,690 |
+| ZOTAC | Gaming GeForce RTX 4090 Trinity OC White Edition 24GB (Streamer Pro Kit with Mat) | ₹1,84,990 |
+| ZOTAC | Gaming GeForce RTX 4080 Super Trinity Black Edition 16GB (Overclocked Performance Pack) | ₹98,790 |
+| ZOTAC | Gaming GeForce RTX 4060 8GB Twin Edge OC (Streamer Pro Kit with Mat) | ₹27,290 |
+
+## CAMERAS (105)
+
+| Brand | Product Name | Current Price |
+| :--- | :--- | :--- |
+| Canon | EOS R5 Mark II Full-Frame Mirrorless Camera Body | ₹3,99,995 |
+| Canon | EOS R6 Mark II Full-Frame Mirrorless Camera Body | ₹2,15,995 |
+| Canon | EOS R8 Full-Frame Mirrorless Camera with 24-50mm Lens | ₹1,39,995 |
+| Canon | EOS R50 APS-C Mirrorless Content Creator Kit | ₹68,995 |
+| Canon | EOS R10 with RF-S 18-150mm IS STM Lens | ₹1,04,995 |
+| Canon | EOS R5 Mark II Full-Frame Mirrorless Camera Body (Extra High-Capacity Battery Pack) | ₹4,02,495 |
+| Canon | EOS R6 Mark II Full-Frame Mirrorless Camera Body (Studio Lighting & SD Card Bundle) | ₹2,13,495 |
+| Canon | EOS R8 Full-Frame Mirrorless Camera with 24-50mm Lens (Pro Filmmaker Kit with Cage) | ₹1,39,995 |
+| Canon | EOS R50 APS-C Mirrorless Content Creator Kit (Vlogger Bundle with Dual Mics) | ₹71,495 |
+| Canon | EOS R10 with RF-S 18-150mm IS STM Lens (Landscape Explorer with Carbon Tripod) | ₹1,02,495 |
+| Canon | EOS R5 Mark II Full-Frame Mirrorless Camera Body (Vlogger Bundle with Dual Mics) | ₹3,97,495 |
+| Canon | EOS R6 Mark II Full-Frame Mirrorless Camera Body (Landscape Explorer with Carbon Tripod) | ₹2,15,995 |
+| Canon | EOS R8 Full-Frame Mirrorless Camera with 24-50mm Lens (Extra High-Capacity Battery Pack) | ₹1,42,495 |
+| Canon | EOS R50 APS-C Mirrorless Content Creator Kit (Studio Lighting & SD Card Bundle) | ₹66,495 |
+| Canon | EOS R10 with RF-S 18-150mm IS STM Lens (Pro Filmmaker Kit with Cage) | ₹1,04,995 |
+| Canon | EOS R5 Mark II Full-Frame Mirrorless Camera Body (Studio Lighting & SD Card Bundle) | ₹3,99,995 |
+| Canon | EOS R6 Mark II Full-Frame Mirrorless Camera Body (Pro Filmmaker Kit with Cage) | ₹2,18,495 |
+| Canon | EOS R8 Full-Frame Mirrorless Camera with 24-50mm Lens (Vlogger Bundle with Dual Mics) | ₹1,37,495 |
+| Canon | EOS R50 APS-C Mirrorless Content Creator Kit (Landscape Explorer with Carbon Tripod) | ₹68,995 |
+| Canon | EOS R10 with RF-S 18-150mm IS STM Lens (Extra High-Capacity Battery Pack) | ₹1,07,495 |
+| DJI | Osmo Pocket 3 Creator Combo Handheld Gimbal Camera | ₹58,990 |
+| DJI | Osmo Action 4 Adventure Combo Waterproof Camera | ₹37,990 |
+| DJI | Mini 4 Pro Fly More Combo Plus (DJI RC 2) | ₹1,09,990 |
+| DJI | Osmo Pocket 3 Creator Combo Handheld Gimbal Camera (Pro Filmmaker Kit with Cage) | ₹61,490 |
+| DJI | Osmo Action 4 Adventure Combo Waterproof Camera (Vlogger Bundle with Dual Mics) | ₹35,490 |
+| DJI | Mini 4 Pro Fly More Combo Plus (DJI RC 2) (Landscape Explorer with Carbon Tripod) | ₹1,09,990 |
+| DJI | Osmo Pocket 3 Creator Combo Handheld Gimbal Camera (Extra High-Capacity Battery Pack) | ₹56,490 |
+| DJI | Osmo Action 4 Adventure Combo Waterproof Camera (Studio Lighting & SD Card Bundle) | ₹37,990 |
+| DJI | Mini 4 Pro Fly More Combo Plus (DJI RC 2) (Pro Filmmaker Kit with Cage) | ₹1,12,490 |
+| DJI | Osmo Pocket 3 Creator Combo Handheld Gimbal Camera (Vlogger Bundle with Dual Mics) | ₹58,990 |
+| DJI | Osmo Action 4 Adventure Combo Waterproof Camera (Landscape Explorer with Carbon Tripod) | ₹40,490 |
+| Fujifilm | X-T5 Mirrorless Camera with XF 16-80mm f/4 Lens | ₹2,09,999 |
+| Fujifilm | X100VI Premium Compact Fixed Lens Camera (Silver) | ₹1,69,999 |
+| Fujifilm | X-S20 Mirrorless Camera with XC 15-45mm Lens Kit | ₹1,24,999 |
+| Fujifilm | X-T5 Mirrorless Camera with XF 16-80mm f/4 Lens (Landscape Explorer with Carbon Tripod) | ₹2,12,499 |
+| Fujifilm | X100VI Premium Compact Fixed Lens Camera (Silver) (Extra High-Capacity Battery Pack) | ₹1,67,499 |
+| Fujifilm | X-S20 Mirrorless Camera with XC 15-45mm Lens Kit (Studio Lighting & SD Card Bundle) | ₹1,24,999 |
+| Fujifilm | X-T5 Mirrorless Camera with XF 16-80mm f/4 Lens (Pro Filmmaker Kit with Cage) | ₹2,07,499 |
+| Fujifilm | X100VI Premium Compact Fixed Lens Camera (Silver) (Vlogger Bundle with Dual Mics) | ₹1,69,999 |
+| Fujifilm | X-S20 Mirrorless Camera with XC 15-45mm Lens Kit (Landscape Explorer with Carbon Tripod) | ₹1,27,499 |
+| Fujifilm | X-T5 Mirrorless Camera with XF 16-80mm f/4 Lens (Extra High-Capacity Battery Pack) | ₹2,09,999 |
+| Fujifilm | X100VI Premium Compact Fixed Lens Camera (Silver) (Studio Lighting & SD Card Bundle) | ₹1,72,499 |
+| Fujifilm | X-S20 Mirrorless Camera with XC 15-45mm Lens Kit (Pro Filmmaker Kit with Cage) | ₹1,22,499 |
+| GoPro | HERO12 Black Creator Edition Waterproof Action Camera | ₹54,990 |
+| GoPro | HERO12 Black Action Camera | ₹37,990 |
+| GoPro | HERO12 Black Creator Edition Waterproof Action Camera (Extra High-Capacity Battery Pack) | ₹57,490 |
+| GoPro | HERO12 Black Action Camera (Studio Lighting & SD Card Bundle) | ₹35,490 |
+| GoPro | HERO12 Black Creator Edition Waterproof Action Camera (Vlogger Bundle with Dual Mics) | ₹52,490 |
+| GoPro | HERO12 Black Action Camera (Landscape Explorer with Carbon Tripod) | ₹37,990 |
+| Insta360 | X4 8K 360 Degree Waterproof Action Camera | ₹53,990 |
+| Insta360 | Ace Pro 8K Action Camera Co-Engineered with Leica | ₹44,990 |
+| Insta360 | GO 3S Tiny Action Camera 128GB (White) | ₹38,990 |
+| Insta360 | X4 8K 360 Degree Waterproof Action Camera (Pro Filmmaker Kit with Cage) | ₹53,990 |
+| Insta360 | Ace Pro 8K Action Camera Co-Engineered with Leica (Vlogger Bundle with Dual Mics) | ₹47,490 |
+| Insta360 | GO 3S Tiny Action Camera 128GB (White) (Landscape Explorer with Carbon Tripod) | ₹36,490 |
+| Insta360 | X4 8K 360 Degree Waterproof Action Camera (Extra High-Capacity Battery Pack) | ₹56,490 |
+| Insta360 | Ace Pro 8K Action Camera Co-Engineered with Leica (Studio Lighting & SD Card Bundle) | ₹42,490 |
+| Insta360 | GO 3S Tiny Action Camera 128GB (White) (Pro Filmmaker Kit with Cage) | ₹38,990 |
+| Nikon | Z8 Full-Frame Professional Mirrorless Camera Body | ₹3,29,990 |
+| Nikon | Z6 III Full-Frame Mirrorless Camera with 24-70mm f/4 S Lens | ₹2,79,990 |
+| Nikon | Zf Vintage Design Full-Frame Mirrorless Camera (Black) | ₹1,79,990 |
+| Nikon | Z50 APS-C Mirrorless with Dual Lens Kit (16-50mm + 50-250mm) | ₹89,990 |
+| Nikon | Z8 Full-Frame Professional Mirrorless Camera Body (Extra High-Capacity Battery Pack) | ₹3,29,990 |
+| Nikon | Z6 III Full-Frame Mirrorless Camera with 24-70mm f/4 S Lens (Studio Lighting & SD Card Bundle) | ₹2,82,490 |
+| Nikon | Zf Vintage Design Full-Frame Mirrorless Camera (Black) (Pro Filmmaker Kit with Cage) | ₹1,77,490 |
+| Nikon | Z50 APS-C Mirrorless with Dual Lens Kit (16-50mm + 50-250mm) (Vlogger Bundle with Dual Mics) | ₹89,990 |
+| Nikon | Z8 Full-Frame Professional Mirrorless Camera Body (Vlogger Bundle with Dual Mics) | ₹3,32,490 |
+| Nikon | Z6 III Full-Frame Mirrorless Camera with 24-70mm f/4 S Lens (Landscape Explorer with Carbon Tripod) | ₹2,77,490 |
+| Nikon | Zf Vintage Design Full-Frame Mirrorless Camera (Black) (Extra High-Capacity Battery Pack) | ₹1,79,990 |
+| Nikon | Z50 APS-C Mirrorless with Dual Lens Kit (16-50mm + 50-250mm) (Studio Lighting & SD Card Bundle) | ₹92,490 |
+| Nikon | Z8 Full-Frame Professional Mirrorless Camera Body (Studio Lighting & SD Card Bundle) | ₹3,27,490 |
+| Nikon | Z6 III Full-Frame Mirrorless Camera with 24-70mm f/4 S Lens (Pro Filmmaker Kit with Cage) | ₹2,79,990 |
+| Nikon | Zf Vintage Design Full-Frame Mirrorless Camera (Black) (Vlogger Bundle with Dual Mics) | ₹1,82,490 |
+| Nikon | Z50 APS-C Mirrorless with Dual Lens Kit (16-50mm + 50-250mm) (Landscape Explorer with Carbon Tripod) | ₹87,490 |
+| Sony | Alpha 7 IV Full-Frame Mirrorless Camera (Body Only) | ₹2,09,990 |
+| Sony | Alpha 7 IV with 28-70mm Zoom Lens Kit | ₹2,24,990 |
+| Sony | Alpha 7R V High-Resolution Full-Frame Camera | ₹3,49,990 |
+| Sony | Alpha 7C II Compact Full-Frame Mirrorless Camera | ₹1,89,990 |
+| Sony | FX3 Cinema Line Full-Frame Camera | ₹3,79,990 |
+| Sony | ZV-E1 Full-Frame Vlogging Camera | ₹1,99,990 |
+| Sony | Alpha 6700 APS-C Flagship Mirrorless Camera | ₹1,29,990 |
+| Sony | ZV-1 II Pocket Vlogging Camera with 18-50mm Wide Lens | ₹69,990 |
+| Sony | Alpha 7 IV with 28-70mm Zoom Lens Kit (Vlogger Bundle with Dual Mics) | ₹2,24,990 |
+| Sony | Alpha 7R V High-Resolution Full-Frame Camera (Landscape Explorer with Carbon Tripod) | ₹3,52,490 |
+| Sony | Alpha 7C II Compact Full-Frame Mirrorless Camera (Extra High-Capacity Battery Pack) | ₹1,87,490 |
+| Sony | FX3 Cinema Line Full-Frame Camera (Studio Lighting & SD Card Bundle) | ₹3,79,990 |
+| Sony | ZV-E1 Full-Frame Vlogging Camera (Pro Filmmaker Kit with Cage) | ₹2,02,490 |
+| Sony | Alpha 6700 APS-C Flagship Mirrorless Camera (Vlogger Bundle with Dual Mics) | ₹1,27,490 |
+| Sony | ZV-1 II Pocket Vlogging Camera with 18-50mm Wide Lens (Landscape Explorer with Carbon Tripod) | ₹69,990 |
+| Sony | Alpha 7 IV Full-Frame Mirrorless Camera (Body Only) (Extra High-Capacity Battery Pack) | ₹2,09,990 |
+| Sony | Alpha 7 IV with 28-70mm Zoom Lens Kit (Studio Lighting & SD Card Bundle) | ₹2,27,490 |
+| Sony | Alpha 7R V High-Resolution Full-Frame Camera (Pro Filmmaker Kit with Cage) | ₹3,47,490 |
+| Sony | Alpha 7C II Compact Full-Frame Mirrorless Camera (Vlogger Bundle with Dual Mics) | ₹1,89,990 |
+| Sony | FX3 Cinema Line Full-Frame Camera (Landscape Explorer with Carbon Tripod) | ₹3,82,490 |
+| Sony | ZV-E1 Full-Frame Vlogging Camera (Extra High-Capacity Battery Pack) | ₹1,97,490 |
+| Sony | Alpha 6700 APS-C Flagship Mirrorless Camera (Studio Lighting & SD Card Bundle) | ₹1,29,990 |
+| Sony | ZV-1 II Pocket Vlogging Camera with 18-50mm Wide Lens (Pro Filmmaker Kit with Cage) | ₹72,490 |
+| Sony | Alpha 7 IV Full-Frame Mirrorless Camera (Body Only) (Vlogger Bundle with Dual Mics) | ₹2,12,490 |
+| Sony | Alpha 7 IV with 28-70mm Zoom Lens Kit (Landscape Explorer with Carbon Tripod) | ₹2,22,490 |
+| Sony | Alpha 7R V High-Resolution Full-Frame Camera (Extra High-Capacity Battery Pack) | ₹3,49,990 |
+| Sony | Alpha 7C II Compact Full-Frame Mirrorless Camera (Studio Lighting & SD Card Bundle) | ₹1,92,490 |
+| Sony | FX3 Cinema Line Full-Frame Camera (Pro Filmmaker Kit with Cage) | ₹3,77,490 |
+| Sony | ZV-E1 Full-Frame Vlogging Camera (Vlogger Bundle with Dual Mics) | ₹1,99,990 |
+| Sony | Alpha 6700 APS-C Flagship Mirrorless Camera (Landscape Explorer with Carbon Tripod) | ₹1,32,490 |
+| Sony | ZV-1 II Pocket Vlogging Camera with 18-50mm Wide Lens (Extra High-Capacity Battery Pack) | ₹67,490 |
+
+## ACCESSORIES (105)
+
+| Brand | Product Name | Current Price |
+| :--- | :--- | :--- |
+| Anker | 737 Power Bank (PowerCore 24K) 140W Portable Charger | ₹11,999 |
+| Anker | Prime 100W GaN Wall Charger (3-Port Fast Charger) | ₹5,999 |
+| Anker | Prime 20,000mAh Power Bank (200W Output) | ₹12,999 |
+| Anker | MagGo 3-in-1 Foldable Qi2 Wireless Charging Station (15W) | ₹8,999 |
+| Anker | 575 USB-C Docking Station (13-in-1, Triple Display 85W) | ₹17,999 |
+| Anker | Prime 100W GaN Wall Charger (3-Port Fast Charger) (Heavy-Duty Travel Case Edition) | ₹5,999 |
+| Anker | Prime 20,000mAh Power Bank (200W Output) (Desktop Organizer Edition) | ₹13,499 |
+| Anker | MagGo 3-in-1 Foldable Qi2 Wireless Charging Station (15W) (Dual-Pack Value Set) | ₹8,499 |
+| Anker | 575 USB-C Docking Station (13-in-1, Triple Display 85W) (Heavy-Duty Travel Case Edition) | ₹17,999 |
+| Anker | 737 Power Bank (PowerCore 24K) 140W Portable Charger (Dual-Pack Value Set) | ₹12,499 |
+| Anker | Prime 100W GaN Wall Charger (3-Port Fast Charger) (Titanium Edition) | ₹5,499 |
+| Anker | Prime 20,000mAh Power Bank (200W Output) (Braided 2m Cable Bundle) | ₹12,999 |
+| Anker | MagGo 3-in-1 Foldable Qi2 Wireless Charging Station (15W) (Heavy-Duty Travel Case Edition) | ₹9,499 |
+| Anker | 575 USB-C Docking Station (13-in-1, Triple Display 85W) (Titanium Edition) | ₹17,499 |
+| Anker | 737 Power Bank (PowerCore 24K) 140W Portable Charger (Heavy-Duty Travel Case Edition) | ₹11,999 |
+| Anker | Prime 100W GaN Wall Charger (3-Port Fast Charger) (Desktop Organizer Edition) | ₹6,499 |
+| Anker | Prime 20,000mAh Power Bank (200W Output) (Dual-Pack Value Set) | ₹12,499 |
+| Anker | MagGo 3-in-1 Foldable Qi2 Wireless Charging Station (15W) (Titanium Edition) | ₹8,999 |
+| Anker | 575 USB-C Docking Station (13-in-1, Triple Display 85W) (Desktop Organizer Edition) | ₹18,499 |
+| Anker | 737 Power Bank (PowerCore 24K) 140W Portable Charger (Titanium Edition) | ₹11,499 |
+| Anker | Prime 100W GaN Wall Charger (3-Port Fast Charger) (Braided 2m Cable Bundle) | ₹5,999 |
+| Anker | Prime 20,000mAh Power Bank (200W Output) (Heavy-Duty Travel Case Edition) | ₹13,499 |
+| Anker | MagGo 3-in-1 Foldable Qi2 Wireless Charging Station (15W) (Desktop Organizer Edition) | ₹8,499 |
+| Apple | 20W USB-C Power Adapter (Official) | ₹1,900 |
+| Apple | MagSafe Charger (2m) Fast Wireless Charger | ₹4,500 |
+| Apple | 20W USB-C Power Adapter (Official) (Titanium Edition) | ₹1,900 |
+| Apple | MagSafe Charger (2m) Fast Wireless Charger (Braided 2m Cable Bundle) | ₹5,000 |
+| Apple | 20W USB-C Power Adapter (Official) (Desktop Organizer Edition) | ₹1,400 |
+| Apple | MagSafe Charger (2m) Fast Wireless Charger (Dual-Pack Value Set) | ₹4,500 |
+| Apple | 20W USB-C Power Adapter (Official) (Braided 2m Cable Bundle) | ₹2,400 |
+| Apple | MagSafe Charger (2m) Fast Wireless Charger (Heavy-Duty Travel Case Edition) | ₹4,000 |
+| Apple | 20W USB-C Power Adapter (Official) (Dual-Pack Value Set) | ₹1,900 |
+| Apple | MagSafe Charger (2m) Fast Wireless Charger (Titanium Edition) | ₹5,000 |
+| Belkin | BoostCharge Pro 3-in-1 Wireless Charging Stand with MagSafe 15W | ₹13,999 |
+| Belkin | BoostCharge Pro 3-in-1 Wireless Charging Stand with MagSafe 15W (Heavy-Duty Travel Case Edition) | ₹13,499 |
+| Belkin | BoostCharge Pro 3-in-1 Wireless Charging Stand with MagSafe 15W (Titanium Edition) | ₹14,499 |
+| Belkin | BoostCharge Pro 3-in-1 Wireless Charging Stand with MagSafe 15W (Desktop Organizer Edition) | ₹13,999 |
+| Belkin | BoostCharge Pro 3-in-1 Wireless Charging Stand with MagSafe 15W (Braided 2m Cable Bundle) | ₹13,499 |
+| BenQ | ScreenBar Halo LED Monitor Light Bar with Wireless Controller | ₹16,990 |
+| BenQ | ScreenBar Halo LED Monitor Light Bar with Wireless Controller (Desktop Organizer Edition) | ₹16,990 |
+| BenQ | ScreenBar Halo LED Monitor Light Bar with Wireless Controller (Braided 2m Cable Bundle) | ₹16,490 |
+| BenQ | ScreenBar Halo LED Monitor Light Bar with Wireless Controller (Dual-Pack Value Set) | ₹17,490 |
+| CalDigit | TS4 Thunderbolt 4 Dock (18 Ports, 98W Charging) | ₹44,990 |
+| CalDigit | TS4 Thunderbolt 4 Dock (18 Ports, 98W Charging) (Braided 2m Cable Bundle) | ₹44,490 |
+| CalDigit | TS4 Thunderbolt 4 Dock (18 Ports, 98W Charging) (Dual-Pack Value Set) | ₹45,490 |
+| CalDigit | TS4 Thunderbolt 4 Dock (18 Ports, 98W Charging) (Heavy-Duty Travel Case Edition) | ₹44,990 |
+| Crucial | X9 Pro 2TB Portable SSD (Micron TLC NAND) | ₹16,499 |
+| Crucial | X9 Pro 2TB Portable SSD (Micron TLC NAND) (Dual-Pack Value Set) | ₹16,499 |
+| Crucial | X9 Pro 2TB Portable SSD (Micron TLC NAND) (Heavy-Duty Travel Case Edition) | ₹15,999 |
+| Crucial | X9 Pro 2TB Portable SSD (Micron TLC NAND) (Titanium Edition) | ₹16,999 |
+| Crucial | X9 Pro 2TB Portable SSD (Micron TLC NAND) (Desktop Organizer Edition) | ₹16,499 |
+| Keychron | Q3 Pro Special Edition QMK/VIA Wireless Custom Mechanical Keyboard | ₹21,999 |
+| Keychron | K2 Version 2 75% Wireless Mechanical Keyboard (RGB Backlight) | ₹8,999 |
+| Keychron | Q3 Pro Special Edition QMK/VIA Wireless Custom Mechanical Keyboard (Braided 2m Cable Bundle) | ₹22,499 |
+| Keychron | K2 Version 2 75% Wireless Mechanical Keyboard (RGB Backlight) (Heavy-Duty Travel Case Edition) | ₹8,499 |
+| Keychron | Q3 Pro Special Edition QMK/VIA Wireless Custom Mechanical Keyboard (Dual-Pack Value Set) | ₹21,999 |
+| Keychron | K2 Version 2 75% Wireless Mechanical Keyboard (RGB Backlight) (Titanium Edition) | ₹9,499 |
+| Keychron | Q3 Pro Special Edition QMK/VIA Wireless Custom Mechanical Keyboard (Heavy-Duty Travel Case Edition) | ₹21,499 |
+| Keychron | K2 Version 2 75% Wireless Mechanical Keyboard (RGB Backlight) (Desktop Organizer Edition) | ₹8,999 |
+| Logitech | MX Master 3S Wireless Performance Mouse (Pale Grey) | ₹9,495 |
+| Logitech | MX Master 3S Wireless Mouse (Graphite) | ₹9,495 |
+| Logitech | MX Mechanical Wireless Illuminated Keyboard (Tactile Quiet) | ₹14,995 |
+| Logitech | MX Master 3S Wireless Performance Mouse (Pale Grey) (Desktop Organizer Edition) | ₹9,995 |
+| Logitech | MX Master 3S Wireless Mouse (Graphite) (Dual-Pack Value Set) | ₹8,995 |
+| Logitech | MX Mechanical Wireless Illuminated Keyboard (Tactile Quiet) (Titanium Edition) | ₹14,995 |
+| Logitech | MX Master 3S Wireless Performance Mouse (Pale Grey) (Braided 2m Cable Bundle) | ₹9,495 |
+| Logitech | MX Master 3S Wireless Mouse (Graphite) (Heavy-Duty Travel Case Edition) | ₹9,995 |
+| Logitech | MX Mechanical Wireless Illuminated Keyboard (Tactile Quiet) (Desktop Organizer Edition) | ₹14,495 |
+| Logitech | MX Master 3S Wireless Performance Mouse (Pale Grey) (Dual-Pack Value Set) | ₹8,995 |
+| Logitech | MX Master 3S Wireless Mouse (Graphite) (Titanium Edition) | ₹9,495 |
+| Logitech | MX Mechanical Wireless Illuminated Keyboard (Tactile Quiet) (Braided 2m Cable Bundle) | ₹15,495 |
+| Samsung | 45W Super Fast Charging 2.0 Power Adapter with 5A Cable | ₹2,999 |
+| Samsung | T7 Shield 2TB Portable SSD (IP65 Rugged Rubber) | ₹17,499 |
+| Samsung | T7 Shield 1TB Portable SSD (Black) | ₹9,999 |
+| Samsung | T9 2TB Portable SSD (USB 3.2 Gen 2x2 20Gbps) | ₹22,999 |
+| Samsung | 45W Super Fast Charging 2.0 Power Adapter with 5A Cable (Desktop Organizer Edition) | ₹2,999 |
+| Samsung | T7 Shield 2TB Portable SSD (IP65 Rugged Rubber) (Dual-Pack Value Set) | ₹17,999 |
+| Samsung | T7 Shield 1TB Portable SSD (Black) (Titanium Edition) | ₹9,499 |
+| Samsung | T9 2TB Portable SSD (USB 3.2 Gen 2x2 20Gbps) (Braided 2m Cable Bundle) | ₹22,999 |
+| Samsung | 45W Super Fast Charging 2.0 Power Adapter with 5A Cable (Braided 2m Cable Bundle) | ₹2,499 |
+| Samsung | T7 Shield 2TB Portable SSD (IP65 Rugged Rubber) (Heavy-Duty Travel Case Edition) | ₹17,499 |
+| Samsung | T7 Shield 1TB Portable SSD (Black) (Desktop Organizer Edition) | ₹10,499 |
+| Samsung | T9 2TB Portable SSD (USB 3.2 Gen 2x2 20Gbps) (Dual-Pack Value Set) | ₹22,499 |
+| Samsung | 45W Super Fast Charging 2.0 Power Adapter with 5A Cable (Dual-Pack Value Set) | ₹3,499 |
+| Samsung | T7 Shield 2TB Portable SSD (IP65 Rugged Rubber) (Titanium Edition) | ₹16,999 |
+| Samsung | T7 Shield 1TB Portable SSD (Black) (Braided 2m Cable Bundle) | ₹9,999 |
+| Samsung | T9 2TB Portable SSD (USB 3.2 Gen 2x2 20Gbps) (Heavy-Duty Travel Case Edition) | ₹23,499 |
+| Samsung | 45W Super Fast Charging 2.0 Power Adapter with 5A Cable (Heavy-Duty Travel Case Edition) | ₹2,999 |
+| Samsung | T7 Shield 2TB Portable SSD (IP65 Rugged Rubber) (Desktop Organizer Edition) | ₹17,999 |
+| Samsung | T7 Shield 1TB Portable SSD (Black) (Dual-Pack Value Set) | ₹9,499 |
+| Samsung | T9 2TB Portable SSD (USB 3.2 Gen 2x2 20Gbps) (Titanium Edition) | ₹22,999 |
+| SanDisk | Extreme Portable SSD 1TB (Up to 1050MB/s) | ₹9,499 |
+| SanDisk | Extreme PRO Portable SSD 2TB (2000MB/s) | ₹21,999 |
+| SanDisk | Extreme Portable SSD 1TB (Up to 1050MB/s) (Heavy-Duty Travel Case Edition) | ₹9,999 |
+| SanDisk | Extreme PRO Portable SSD 2TB (2000MB/s) (Desktop Organizer Edition) | ₹21,499 |
+| SanDisk | Extreme Portable SSD 1TB (Up to 1050MB/s) (Titanium Edition) | ₹9,499 |
+| SanDisk | Extreme PRO Portable SSD 2TB (2000MB/s) (Braided 2m Cable Bundle) | ₹22,499 |
+| SanDisk | Extreme Portable SSD 1TB (Up to 1050MB/s) (Desktop Organizer Edition) | ₹8,999 |
+| SanDisk | Extreme PRO Portable SSD 2TB (2000MB/s) (Dual-Pack Value Set) | ₹21,999 |
+| SanDisk | Extreme Portable SSD 1TB (Up to 1050MB/s) (Braided 2m Cable Bundle) | ₹9,999 |
+| SanDisk | Extreme PRO Portable SSD 2TB (2000MB/s) (Heavy-Duty Travel Case Edition) | ₹21,499 |
+| WD_BLACK | SN850X 2TB NVMe Internal SSD with Heatsink for PS5 & PC | ₹18,999 |
+| WD_BLACK | SN850X 2TB NVMe Internal SSD with Heatsink for PS5 & PC (Titanium Edition) | ₹19,499 |
+| WD_BLACK | SN850X 2TB NVMe Internal SSD with Heatsink for PS5 & PC (Desktop Organizer Edition) | ₹18,999 |
+| WD_BLACK | SN850X 2TB NVMe Internal SSD with Heatsink for PS5 & PC (Braided 2m Cable Bundle) | ₹18,499 |
+
